@@ -8,12 +8,17 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - [The Latex List](#the-latex-list)
   * [Designers & Shops](#designers)
   * [Models](#models)
+    * [Female](#female)
+    * [Male](#male)
+    * [Other](#other)
   * [Photographers & Gallery sites](#photographers)
   * [Communities](#communities)
   * [Events](#events)
   * [Magazines & Books](#magazines)
   * [Resources](#resources)
   * [Miscellaneous](#miscellaneous)
+
+---
 
 ## Designers
 - **Feline Latex Design** (DE) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
