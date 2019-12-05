@@ -48,6 +48,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **FetLife** (US) ([WWW](http://fetlife.com))
 
 ## Events
+- **Wasteland** (NL/DE) ([WWW](https://www.wasteland.nl/) [FB](https://www.facebook.com/Wastelandparty/))
 
 ## Magazines
 - **Rubber life** (book) ([WWW](http://www.rubberlife.com/))
