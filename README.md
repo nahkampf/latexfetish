@@ -23,8 +23,10 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Designers
 - **Feline Latex Design** (DE) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
 - **FutureFetish** (DE) ([WWW](https://futurefetish.com/) [FB](https://www.facebook.com/futurefetishcom-149545578400416/) [IG](https://www.instagram.com/futurefetish) [TW](https://twitter.com/futurefetish))
+- **Jane Doe Latex** (US) ([WWW](https://shop.janedoelatex.com/) [FB](https://www.facebook.com/Janedoelatex/) [IG](https://www.instagram.com/janedoelatex) [TW](https://twitter.com/janedoelatex))
 - **Latexcrazy** (DE) ([WWW](https://www.latexcrazy.com/) [FB](https://www.facebook.com/latexcrazyshop/) [IG]( https://www.instagram.com/latexcrazy))
 - **Libidex** (UK) ([WWW](http://www.libidex.com) [FB](https://www.facebook.com/libidex/) [TW](https://twitter.com/LibidexLtd) [IG](https://www.instagram.com/libidex/))
+- **Tableux Vivants** (US) ([WWW](https://www.tableauxvivantslatex.com/) [FB](https://www.facebook.com/TableauxVivants) [IG](https://www.instagram.com/tableaux_vivants) [TW](https://twitter.com/TABLEAUX_VIVANT))
 - **Unique Rubber** (DE) ([WWW](https://www.unique-rubber.de) [FB](https://www.facebook.com/UniqueRubber))
 
 ## Models
