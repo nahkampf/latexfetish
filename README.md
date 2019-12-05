@@ -29,6 +29,10 @@ If you have additions or corrections/updates feel free to make a pull request. T
 
 ## Models
 ### Female
+- **Miss Mosh** (US) ([FB (old)](https://www.facebook.com/Miss-Mosh-259779070725752/) [FB (new)(https://www.facebook.com/OfficiallyMosh) [IG](https://www.instagram.com/officiallymosh/) [TW](https://twitter.com/totallymosh))
+- **Sister Sinister** (SE) ([FB](https://www.facebook.com/SisSinister/) [IG](https://www.instagram.com/sister_sinister/) [TW](https://twitter.com/sistersinister))
+- **Susan Wayland** (DE) ([WWW](https://www.susanwaylandclub.com/) [FB](https://www.facebook.com/SusanWaylandOfficialPage/) [YT](https://www.youtube.com/channel/UCSaOMO1Ks_Lrvmb9OxrhrLw) [TW](https://twitter.com/susanwayland))
+
 
 ### Male
 
