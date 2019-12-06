@@ -38,6 +38,8 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Collective Chaos** (US) ([ET](https://www.etsy.com/shop/collectivechaos/) [FB](https://www.facebook.com/collectivechaos/) [IG](https://www.instagram.com/collectivechaos))
 - **Danny Deluxe** (DE)  ([WWW](http://www.danny-deluxe.com) [FB](https://www.facebook.com/DannyDeluxeLatex))
 - **Dark Virtue Designs** (UK) ([WWW](https://darkvirtuedesigns.com/) [ET](https://www.etsy.com/shop/DarkVirtueDesigns) [FB](https://www.facebook.com/darkvirtuedesigns/))
+- **Dawnamatrix** (US) ([WEB](https://dawnamatrix.com/) [FB](https://www.facebook.com/DawnamatrixDesigns/) [IG](https://www.instagram.com/dawnamatrix/) [TW](https://twitter.com/dawnamatrix))
+- **Demask** (CZ/NL) ([WEB](http://www.demask.com) [FB](https://www.facebook.com/DemaskAmsterdam/) [IG](https://www.instagram.com/demask_international/) [TW](https://twitter.com/DeMasK) [YT](https://www.youtube.com/user/demaskinternational))
 - **Feline Latex Design** (DE) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
 - **FutureFetish** (DE) ([WWW](https://futurefetish.com/) [FB](https://www.facebook.com/futurefetishcom-149545578400416/) [IG](https://www.instagram.com/futurefetish) [TW](https://twitter.com/futurefetish))
 - **House of Harlot** (UK) ([WWW](http://www.houseofharlot.com/) [FB](https://www.facebook.com/houseofharlot) [IG](https://www.instagram.com/houseofharlot/) [TW](https://twitter.com/houseofharlot))
