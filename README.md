@@ -21,6 +21,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ---
 
 ## Designers
+- **Catalyst Latex** (UK) ([WWW](https://www.catalystlatex.com/) [FB](https://www.facebook.com/CatalystLatex/) [IG](https://www.instagram.com/catalystlatex/) [TW](https://twitter.com/CatalystLatex))
 - **Chronomatic Luxury Latex Wear** (DE) ([WWW](https://www.chronomatic.de/) [FB](https://www.facebook.com/pg/chronomatic.latexwear) [IG](https://www.instagram.com/chronomatic_latex/) [TW](https://twitter.com/chronomaticinfo))
 - **Dark Virtue Designs** (UK) ([WWW](https://darkvirtuedesigns.com/) [ET](https://www.etsy.com/shop/DarkVirtueDesigns) [FB](https://www.facebook.com/darkvirtuedesigns/))
 - **Feline Latex Design** (DE) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
@@ -28,6 +29,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Jane Doe Latex** (US) ([WWW](https://shop.janedoelatex.com/) [FB](https://www.facebook.com/Janedoelatex/) [IG](https://www.instagram.com/janedoelatex) [TW](https://twitter.com/janedoelatex))
 - **Latexcrazy** (DE) ([WWW](https://www.latexcrazy.com/) [FB](https://www.facebook.com/latexcrazyshop/) [IG]( https://www.instagram.com/latexcrazy))
 - **Libidex** (UK) ([WWW](http://www.libidex.com) [FB](https://www.facebook.com/libidex/) [TW](https://twitter.com/LibidexLtd) [IG](https://www.instagram.com/libidex/))
+- **Lüllepop** (DE) ([WWW](https://luellepop-design.de/) [FB](https://www.facebook.com/Luellepop.LaTextil.Couture) [IG](https://www.instagram.com/luellepop_latextil_couture/) [TW](https://twitter.com/luellepop) [YT](https://www.youtube.com/channel/UCQ4Ksci4jvkwysCjFGPAusA))
 - **Piranha Latex** (CZ) ([FB](https://www.facebook.com/pg/latexpiranha))
 - **Strawberry Pandy Latex** (UK) ([ET](https://www.etsy.com/shop/StrawberryPandaStore) [FB](https://www.facebook.com/pg/StrawberryPandaLatex))
 - **Tableux Vivants** (US) ([WWW](https://www.tableauxvivantslatex.com/) [FB](https://www.facebook.com/TableauxVivants) [IG](https://www.instagram.com/tableaux_vivants) [TW](https://twitter.com/TABLEAUX_VIVANT))
