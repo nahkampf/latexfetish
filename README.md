@@ -65,6 +65,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **High Gloss Dolls** (DE) ([WWW](http://gallery.highglossdolls.com/))
 - **Josefien Hoekstra** (NL) ([WWW](https://josefienhoekstra.com/) [FB](https://www.facebook.com/pg/josefienhoekstra))
 - **Kink Engineer** (CH) ([WWW](https://www.kinkengineer.com) [FB](https://www.facebook.com/pg/KinkEngineer/) [IG](https://www.instagram.com/kink_engineer/))
+- **Radiant Inc** (US) ([WWW](https://www.radiantinc.net/) [FB](https://www.facebook.com/pg/Radiant.Inc.L))
 - **S&M Photography** (DE) ([FB](https://www.facebook.com/pg/SM.Fashion.Photography))
 
 ## Communities
