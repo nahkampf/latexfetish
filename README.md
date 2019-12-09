@@ -41,6 +41,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Dark Virtue Designs** (UK) ([WWW](https://darkvirtuedesigns.com/) [ET](https://www.etsy.com/shop/DarkVirtueDesigns) [FB](https://www.facebook.com/darkvirtuedesigns/))
 - **Dawnamatrix** (US) ([WEB](https://dawnamatrix.com/) [FB](https://www.facebook.com/DawnamatrixDesigns/) [IG](https://www.instagram.com/dawnamatrix/) [TW](https://twitter.com/dawnamatrix))
 - **Demask** (CZ/NL) ([WEB](http://www.demask.com) [FB](https://www.facebook.com/DemaskAmsterdam/) [IG](https://www.instagram.com/demask_international/) [TW](https://twitter.com/DeMasK) [YT](https://www.youtube.com/user/demaskinternational))
+- **Ectomorph** (UK) ([WWW](http://www.ectomorph.com/) [FB](https://www.facebook.com/EctoMorphFashion/) [IG](https://www.instagram.com/krystina_kitsis))
 - **Eustratia** (UK) ([WWW](http://www.eustratia.co.uk/) [FB](https://www.facebook.com/pg/Eustratiadesign))
 - **Fantastic Rubber** (DE) ([WWW](http://www.fantasticrubber.de/) [FB](https://www.facebook.com/pg/fantasticrubber) [IG](https://www.instagram.com/fantasticrubber/) [TW](https://twitter.com/fantasticrubber))
 - **Feline Latex Design** (DE) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
