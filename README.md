@@ -64,6 +64,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Tableux Vivants** (US) ([WWW](https://www.tableauxvivantslatex.com/) [FB](https://www.facebook.com/TableauxVivants) [IG](https://www.instagram.com/tableaux_vivants) [TW](https://twitter.com/TABLEAUX_VIVANT))
 - **Tiina Rikala** (FI) ([FB](https://www.facebook.com/pg/latexbytiinarikala))
 - **Unique Rubber** (DE) ([WWW](https://www.unique-rubber.de) [FB](https://www.facebook.com/UniqueRubber))
+- **Venus Prototype** (US) ([WWW](https://venusprototypelatex.com/) [FB](https://www.facebook.com/venusprototype/) [IG](https://www.instagram.com/xvenusprototypex/))
 - **Zorenko London** (UK) ([WWW](https://www.zorenko.co.uk/) [FB](https://www.facebook.com/pg/Zorenko.LDN) [IG](https://www.instagram.com/zorenkolondon/) [TW](https://twitter.com/ZorenkoLondon))
 - **High Gloss Dolls/Katja Erhardt** (DE) ([WWW](http://gallery.highglossdolls.com/shop/))
 
