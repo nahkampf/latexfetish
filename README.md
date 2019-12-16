@@ -59,6 +59,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Lust Designs** (US) ([WWW](https://www.lustdesigns.com/) [FB](https://www.facebook.com/pg/lustdesigns))
 - **Mademoiselle Ilo** (FR) ([WWW](https://mademoiselle-ilo.fr/en/) [FB](https://www.facebook.com/Mademoiselle.Ilo.latex.design.Paris/))
 - **Maniac Latex** (DE) ([WWW](https://www.maniaclatex.com/) [FB](https://www.facebook.com/maniaclatex) [IG](https://www.instagram.com/maniaclatex/))
+- **Miss Grey Latex** (DE) ([FB](https://www.facebook.com/pg/missgreylatex/))
 - **Mrs. Gravedigger Latex** (DE) ([ET](https://www.etsy.com/de/shop/MrsGravedigger) [FB](https://www.facebook.com/mrsgravediggerLatex))
 - **Piranha Latex** (CZ) ([FB](https://www.facebook.com/pg/latexpiranha))
 - **Reneé Masoomian** (US) ([WWW](http://www.reneemasoomian.com) [FB](https://www.facebook.com/pg/ReneeMasoomianNYC) [TW](https://twitter.com/ReneeMasoomian))
