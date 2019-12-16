@@ -63,6 +63,8 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Mrs. Gravedigger Latex** (DE) ([ET](https://www.etsy.com/de/shop/MrsGravedigger) [FB](https://www.facebook.com/mrsgravediggerLatex))
 - **Piranha Latex** (CZ) ([FB](https://www.facebook.com/pg/latexpiranha))
 - **Reneé Masoomian** (US) ([WWW](http://www.reneemasoomian.com) [FB](https://www.facebook.com/pg/ReneeMasoomianNYC) [TW](https://twitter.com/ReneeMasoomian))
+- **Rosengarn** (DE) ([WWW](https://www.rosengarn.de/) [FB](https://www.facebook.com/pg/Rosengarn/))
+- **RubberBambi** (DE) ([WWW](https://rubberbambi.de) [FB](https://www.facebook.com/pg/RubberBambi-1450071368632463))
 - **Savage Wear** (DE) ([WWW](https://www.savage-wear.com/) [FB](https://www.facebook.com/pg/savagewear) [TW](https://twitter.com/savagewear))
 - **Shhh! Couture** (UK) ([WWW](https://www.shhhcouturelatex.co.uk/) [FB](https://www.facebook.com/pg/ShhhCoutureLatex) [IG](https://www.instagram.com/shhhcouturelatex) [TW](https://twitter.com/shhhcouture))
 - **Strawberry Pandy Latex** (UK) ([ET](https://www.etsy.com/shop/StrawberryPandaStore) [FB](https://www.facebook.com/pg/StrawberryPandaLatex))
