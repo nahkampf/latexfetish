@@ -98,6 +98,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Miss Agavi** (PL) ([FB](https://www.facebook.com/pg/miss.agavi) [IG](https://www.instagram.com/miss_agavi))
 - **Miss Mandy** (SE) ([FB](https://www.facebook.com/pg/MissMandyOfficial/) [IG](https://www.instagram.com/missmandyofficial))
 - **Miss Mosh** (US) ([FB (old)](https://www.facebook.com/Miss-Mosh-259779070725752/) [FB (new)](https://www.facebook.com/OfficiallyMosh) [IG](https://www.instagram.com/officiallymosh/) [TW](https://twitter.com/totallymosh))
+- **My Little Vronie** (SE) ([WWW](https://onlyfans.com/mylittlevronie) [FB](https://www.facebook.com/MyLittleVronie))
 - **Psylocke** (SE) ([FB](https://www.facebook.com/Psylocke.se) [IG](https://www.instagram.com/psylocke_model/) [TW](https://twitter.com/psylockemodel))
 - **Romanie Smith** (UK) ([WWW](http://www.romaniesmith.com/) [FB](https://www.facebook.com/pg/romaniesmithmodel/) [IG](https://www.instagram.com/romaniesmith/))
 - **Roshie** (AU) ([FB](https://www.facebook.com/pg/RoshieModel/))
