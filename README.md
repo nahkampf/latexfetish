@@ -98,6 +98,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Bunny GlitterGun** (NL) ([FB](https://www.facebook.com/pg/BunnyGlitterGun/) [IG](https://www.instagram.com/BunnyGlitterGun/))
 - **Dani Divine** (UK) ([WWW](https://danidivine.bigcartel.com/) [FB](https://www.facebook.com/pg/danidivinemodel) [IG](https://www.instagram.com/dani_divine))
 - **Diva Nova/Emanuela Solomie** (DE) ([FB](https://www.facebook.com/pg/Diva-NovaEmanuela-Solomie-161528183887664))
+- **Dutch Dame** (NL) ([WWW](https://www.dutchdame.com/) [FB](https://www.facebook.com/DutchDame) [IG](https://www.instagram.com/dutchdameofficial/) [TW](https://twitter.com/dutchdame1))
 - **Eva Lilienthal** (DE) ([WWW](http://www.evalilienthal.de/) [FB](https://www.facebook.com/pg/ModelEvaLilienthal))
 - **Frau Tagtraum** (DE) ([FB](https://www.facebook.com/FrauTagtraum) [IG](https://www.instagram.com/frau.tagtraum/))
 - **Honeyhair** (CZ) ([WWW](http://www.honeyhair.net) [FB](https://www.facebook.com/Honeyhairmodel) [IG](https://www.instagram.com/honeyhair_model/) [TW](https://twitter.com/Honeyhair) [YT](https://www.youtube.com/user/modelHoneyhair))
