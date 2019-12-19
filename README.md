@@ -117,6 +117,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Josefien Hoekstra** (NL) ([WWW](https://josefienhoekstra.com/) [FB](https://www.facebook.com/pg/josefienhoekstra))
 - **Kink Engineer** (CH) ([WWW](https://www.kinkengineer.com) [FB](https://www.facebook.com/pg/KinkEngineer/) [IG](https://www.instagram.com/kink_engineer/))
 - **Mew-Chiel** (NL) ([WWW](http://www.me-chiel.com) [FB](https://www.facebook.com/pg/mewchiel))
+- **O-Orb** (FI) ([WWW](http://www.0-orb.net/zero/) [FB](https://www.facebook.com/pg/0orb.shines) [IG](https://www.instagram.com/zero_scope/) [TW](https://twitter.com/Zer0orb))
 - **Radiant Inc** (US) ([WWW](https://www.radiantinc.net/) [FB](https://www.facebook.com/pg/Radiant.Inc.L))
 - **S&M Photography** (DE) ([FB](https://www.facebook.com/pg/SM.Fashion.Photography))
 
