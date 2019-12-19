@@ -90,6 +90,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Frau Tagtraum** (DE) ([FB](https://www.facebook.com/FrauTagtraum) [IG](https://www.instagram.com/frau.tagtraum/))
 - **Honeyhair** (CZ) ([WWW](http://www.honeyhair.net) [FB](https://www.facebook.com/Honeyhairmodel) [IG](https://www.instagram.com/honeyhair_model/) [TW](https://twitter.com/Honeyhair) [YT](https://www.youtube.com/user/modelHoneyhair))
 - **Jade Vixen** (US) ([FB](https://www.facebook.com/pg/modeljade) [IG](https://www.instagram.com/jade_vixen/) [TW](https://twitter.com/jade_vixen) [YT](https://www.youtube.com/user/ModelJadeVixen))
+- **Katie Marin** (FI) ([WWW](http://www.katiemarin.com) [FB](https://www.facebook.com/pg/KatieMarinModel) [IG](https://www.instagram.com/katiemarin/))
 - **Katie Miller** (NL) ([FB](https://www.facebook.com/pg/katiemillerofficial))
 - **L'Adinda Latex** (NL) ([FB](https://www.facebook.com/pg/ladindalatex/) [IG](https://www.instagram.com/l.adinda.latex/))
 - **Lara Aimee** (NL) ([WWW](http://www.lara-aimee.nl/) [FB](https://www.facebook.com/pg/LaraAimeeOfficial) [IG](https://www.instagram.com/the_lara_aimee/))
@@ -103,7 +104,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Romanie Smith** (UK) ([WWW](http://www.romaniesmith.com/) [FB](https://www.facebook.com/pg/romaniesmithmodel/) [IG](https://www.instagram.com/romaniesmith/))
 - **Roshie** (AU) ([FB](https://www.facebook.com/pg/RoshieModel/))
 - **Sister Sinister** (SE) ([FB](https://www.facebook.com/SisSinister/) [IG](https://www.instagram.com/sister_sinister/) [TW](https://twitter.com/sistersinister))
-- **Starfucked** (SE) ([WWW](https://starfuckedmodel.bigcartel.com/) [FB](https://www.facebook.com/pg/Starf.model) [IG](https://www.instagram.com/starfuckedmodel) [TW](https://twitter.com/StarfuckedModel))
+- **~~Starfucked~~Star model** (SE) ([WWW](https://starfuckedmodel.bigcartel.com/) [FB](https://www.facebook.com/pg/Starf.model) [IG](https://www.instagram.com/starfuckedmodel) [TW](https://twitter.com/StarfuckedModel))
 - **Susan Wayland** (DE) ([WWW](https://www.susanwaylandclub.com/) [FB](https://www.facebook.com/SusanWaylandOfficialPage/) [YT](https://www.youtube.com/channel/UCSaOMO1Ks_Lrvmb9OxrhrLw) [TW](https://twitter.com/susanwayland))
 
 ### Male
