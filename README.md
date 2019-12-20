@@ -160,3 +160,5 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Making latex clothing** ([WWW](http://makinglatexclothing.com/))
 
 ## Miscellaneous
+- **beGLOSS** ([WWW](https://www.begloss.com))
+- **Vivishine** ([WWW](https://www.vivishine.com))
