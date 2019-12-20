@@ -3,7 +3,12 @@
 
 This is an online repository for latex/rubber fetishists, cataloging designers, models etc. This list is *only* for latex/rubber, not PVC or similar materials. 
 
-If you have additions or corrections/updates feel free to make a pull request. This list is acknowledges the work of (now defunct) latexcouture.esy.es.
+If you have additions or corrections/updates feel free to make a pull request. This list is acknowledges the work of (now defunct) latexcouture.esy.es. Additions should:
+- Follow the format of this README
+- Only add still active sites/designers/models etc. If you see something in here that has been abandoned/gone out of business etc, please make a pull request.
+- Foucs on quality over quantity
+
+## Table of contents
 
 - [The Latex List](#the-latex-list)
   * [Designers](#designers)
