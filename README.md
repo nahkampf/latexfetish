@@ -150,6 +150,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Magazines
 - **Bedesme Magazine** ([WWW](https://bedeseme.com/) [FB](https://www.facebook.com/Bedeseme) [IG](https://www.instagram.com/bedeseme/) [TW](https://twitter.com/Bedeseme) [YT](https://www.youtube.com/channel/UCCYrvQfpNBJQGNhQQ6gMmRQ))
   - **Latecstasy** ([WWW](https://bedeseme.com/latecstasy-issues/))
+- **LTX Magazine** ([WWW](https://ltxmagazine1.wixsite.com/ltxmag) [FB](https://www.facebook.com/ltxmag))
 - **Rubber life** (book) ([WWW](http://www.rubberlife.com/))
 - **Skin Two Magazine** ([WWW](https://www.skintwo.com/sk2-magazine))
 - **Von Gutenberg** ([WWW](https://www.vongutenberg.com/) [FB](https://www.facebook.com/vongutenbergmagazine/) [IG](https://www.instagram.com/vongutenberg_magazine/) [TW](https://twitter.com/vongutenbergmag) [YT](https://www.youtube.com/user/ErikvonGutenberg/videos))
