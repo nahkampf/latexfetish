@@ -71,6 +71,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Polymorphe** (CA) ([WWW](https://polymorphe.com) [FB](https://www.facebook.com/pg/Polymorphe.Latex))
 - **Reneé Masoomian** (US) ([WWW](http://www.reneemasoomian.com) [FB](https://www.facebook.com/pg/ReneeMasoomianNYC) [TW](https://twitter.com/ReneeMasoomian))
 - **Rosengarn** (DE) ([WWW](https://www.rosengarn.de/) [FB](https://www.facebook.com/pg/Rosengarn/))
+- **Rubbella** (NL) ([WWW](https://www.rubbella.nl) [FB](https://www.facebook.com/pg/Rubbella) [IG](https://www.instagram.com/wendyrubbella/) [YT](https://www.youtube.com/user/wendyrubbella))
 - **Rubber55** (UK) ([WWW](https://rubber55.co.uk/) [FB](https://www.facebook.com/Rubber55official/) [IG](https://www.instagram.com/rubber55_official/))
 - **RubberBambi** (DE) ([WWW](https://rubberbambi.de) [FB](https://www.facebook.com/pg/RubberBambi-1450071368632463))
 - **Savage Wear** (DE) ([WWW](https://www.savage-wear.com/) [FB](https://www.facebook.com/pg/savagewear) [TW](https://twitter.com/savagewear))
