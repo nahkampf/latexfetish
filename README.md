@@ -12,7 +12,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 
 - [The Latex List](#the-latex-list)
   * [Designers](#designers)
-  * [Shops & Resellers](#shops)
+  * [Shops, Retailers & Resellers](#shops)
   * [Models](#models)
     * [Female](#female)
     * [Male](#male)
@@ -58,10 +58,12 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **High Gloss Dolls/Katja Erhardt** (DE) ([WWW](http://gallery.highglossdolls.com/shop/))
 - **House of Harlot** (UK) ([WWW](http://www.houseofharlot.com/) [FB](https://www.facebook.com/houseofharlot) [IG](https://www.instagram.com/houseofharlot/) [TW](https://twitter.com/houseofharlot))
 - **HW Design** (AT) ([WWW](https://www.hwdesignshop.com/) [FB](https://www.facebook.com/hwdesignlatex/) [TW](https://twitter.com/HWD_latex))
+- **Inner Sanctum** (DE) ([WWW](http://www.innersanctumonline.com/) [FB](https://www.facebook.com/pg/InnerSanctumLatex))
 - **Isabeau Ouvert** (DE) ([WWW](https://www.isabeau-ouvert.com/latex-fashion/))
 - **Jane Doe Latex** (US) ([WWW](https://shop.janedoelatex.com/) [FB](https://www.facebook.com/Janedoelatex/) [IG](https://www.instagram.com/janedoelatex) [TW](https://twitter.com/janedoelatex))
 - **Kinkside Latex** (RU) ([WWW](http://kinkside.com/) [FB](https://www.facebook.com/pg/kinkside) [IG](https://www.instagram.com/kinkside/) [TW](https://twitter.com/KinksideLatex))
 - **Lacing Lilith** (UK) ([WWW](www.lacinglilith.com) [FB](https://www.facebook.com/pg/lacinglilithlatexcouture))
+- **Lady Lucie Latex** (UK) ([WWW](https://ladylucie.com/) [FB](https://www.facebook.com/LadyLucieLatex/) [IG](https://www.instagram.com/ladylucielatex))
 - **Latexa** (DE) ([WWW](http://www.latexa.com/) [FB](https://www.facebook.com/latexa.gmbh/)) 
 - **Latexcrazy** (DE) ([WWW](https://www.latexcrazy.com/) [FB](https://www.facebook.com/latexcrazyshop/) [IG]( https://www.instagram.com/latexcrazy))
 - **Latexion Design** (US) ([FB](https://www.facebook.com/latexiondesign) [ET](https://www.etsy.com/shop/latexion))
@@ -74,7 +76,9 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Macinger** (DE) ([WWW](https://www.macinger.com)  [FB](https://www.facebook.com/pg/macingerlatex))
 - **Mademoiselle Ilo** (FR) ([WWW](https://mademoiselle-ilo.fr/en/) [FB](https://www.facebook.com/Mademoiselle.Ilo.latex.design.Paris/))
 - **Maebelle Latex** (SE) ([WWW](https://maebellelatex.com) [FB](https://www.facebook.com/maebellelatex))
+- **MaggieDelena** (US) ([WWW](http://www.maggiedelena.com/) [FB](https://www.facebook.com/maggiedelenalatex/))
 - **Maniac Latex** (DE) ([WWW](https://www.maniaclatex.com/) [FB](https://www.facebook.com/maniaclatex) [IG](https://www.instagram.com/maniaclatex/))
+- **Mico Couture** (UK) ([WWW](https://micocouture.com/) [FB](https://www.facebook.com/pg/micocouture/) [IG](https://www.instagram.com/micocouturelatex/) [TW](https://twitter.com/micocouture))
 - **Miss Grey Latex** (DE) ([FB](https://www.facebook.com/pg/missgreylatex/))
 - **Mrs. Gravedigger Latex** (DE) ([ET](https://www.etsy.com/de/shop/MrsGravedigger) [FB](https://www.facebook.com/mrsgravediggerLatex))
 - **Piranha Latex** (CZ) ([FB](https://www.facebook.com/pg/latexpiranha))
@@ -105,6 +109,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 
 ## Shops
 - **Absolute Danny** (NL) ([WWW](http://www.absolutedanny.com/) [FB](https://www.facebook.com/pg/Absolute-Danny-388274791324944))
+- **Honour** (UK) ([WWW](https://www.honour.co.uk) [FB](https://www.facebook.com/honourclothing01) [IG](https://www.instagram.com/honourclothing/) [TW](https://twitter.com/honourclothing) [YT](https://www.youtube.com/user/honourclothing/))
 - **Stockroom** (US) ([WWW](https://www.stockroom.com/))
 
 ## Models
