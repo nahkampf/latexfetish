@@ -162,6 +162,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **FetLife** (US) ([WWW](http://fetlife.com))
 
 ## Events
+- **German Fetish Ball** (DE) ([WWW](https://www.german-fetish-ball.com/) [FB](https://www.facebook.com/germanfetishballweekend) [IG](https://www.instagram.com/germanfetishball/) [TW](https://twitter.com/germanfetball) [YT](https://www.youtube.com/user/germanfetishball))
 - **RubberCult** (UK) ([WWW](http://www.rubber-cult.com) [FB](https://www.facebook.com/pg/RubberCult/))
 - **Unleashed** (NL) ([WWW](https://www.unleashedparty.com/) [FB](https://www.facebook.com/pg/UnleashedParty) [IG](https://www.instagram.com/unleashedparty/))
 - **Wasteland** (NL/DE) ([WWW](https://www.wasteland.nl/) [FB](https://www.facebook.com/Wastelandparty/))
