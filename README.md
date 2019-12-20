@@ -145,6 +145,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **FetLife** (US) ([WWW](http://fetlife.com))
 
 ## Events
+- **RubberCult** (UK) ([WWW](http://www.rubber-cult.com) [FB](https://www.facebook.com/pg/RubberCult/))
 - **Unleashed** (NL) ([WWW](https://www.unleashedparty.com/) [FB](https://www.facebook.com/pg/UnleashedParty) [IG](https://www.instagram.com/unleashedparty/))
 - **Wasteland** (NL/DE) ([WWW](https://www.wasteland.nl/) [FB](https://www.facebook.com/Wastelandparty/))
 
