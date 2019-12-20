@@ -22,6 +22,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ---
 
 ## Designers
+- **Abigail Greydanus** (US) ([WWW](https://www.abigailgreydanus.com) [ET](https://www.etsy.com/se-en/shop/abigailgreydanus) [FB](https://www.facebook.com/abigailgreydanus/))
 - **Antidote London** (UK) ([WWW](http://antidotelondonlatex.co.uk) [FB](https://www.facebook.com/pg/AntidoteLondonLatex))
 - **AM Statik** (UK) ([WWW](https://amstatik.wixsite.com/amstatiklatex) [FB](https://www.facebook.com/pg/AmStatik) [IG](https://www.instagram.com/amstatiklatex/) [TW](https://twitter.com/AmStatiklatex))
 - **Amatoris Latex-Couture** (DE) ([WWW](http://www.amatoris.de/shop/) [FB](https://www.facebook.com/pg/AmatorisLatexCouture))
