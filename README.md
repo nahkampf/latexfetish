@@ -61,6 +61,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Lunaslatex** (NL) ([ET](https://www.etsy.com/nl/shop/Lunaslatex) [FB](https://www.facebook.com/lunaslatexx-1275687902594977/))
 - **Lüllepop** (DE) ([WWW](https://luellepop-design.de/) [FB](https://www.facebook.com/Luellepop.LaTextil.Couture) [IG](https://www.instagram.com/luellepop_latextil_couture/) [TW](https://twitter.com/luellepop) [YT](https://www.youtube.com/channel/UCQ4Ksci4jvkwysCjFGPAusA))
 - **Lust Designs** (US) ([WWW](https://www.lustdesigns.com/) [FB](https://www.facebook.com/pg/lustdesigns))
+- **Macinger** (DE) ([WWW](https://www.macinger.com)  [FB](https://www.facebook.com/pg/macingerlatex))
 - **Mademoiselle Ilo** (FR) ([WWW](https://mademoiselle-ilo.fr/en/) [FB](https://www.facebook.com/Mademoiselle.Ilo.latex.design.Paris/))
 - **Maebelle Latex** (SE) ([WWW](https://maebellelatex.com) [FB](https://www.facebook.com/maebellelatex))
 - **Maniac Latex** (DE) ([WWW](https://www.maniaclatex.com/) [FB](https://www.facebook.com/maniaclatex) [IG](https://www.instagram.com/maniaclatex/))
