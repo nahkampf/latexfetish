@@ -117,6 +117,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Shops
 - **Absolute Danny** (NL) ([WWW](http://www.absolutedanny.com/) [FB](https://www.facebook.com/pg/Absolute-Danny-388274791324944))
 - **Honour** (UK) ([WWW](https://www.honour.co.uk) [FB](https://www.facebook.com/honourclothing01) [IG](https://www.instagram.com/honourclothing/) [TW](https://twitter.com/honourclothing) [YT](https://www.youtube.com/user/honourclothing/))
+- **Rubber Eva** (UK) ([UK](https://www.rubberevashop.com)) 
 - **Stockroom** (US) ([WWW](https://www.stockroom.com/))
 
 ## Models
@@ -144,7 +145,6 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Psylocke** (SE) ([FB](https://www.facebook.com/Psylocke.se) [IG](https://www.instagram.com/psylocke_model/) [TW](https://twitter.com/psylockemodel))
 - **Romanie Smith** (UK) ([WWW](http://www.romaniesmith.com/) [FB](https://www.facebook.com/pg/romaniesmithmodel/) [IG](https://www.instagram.com/romaniesmith/))
 - **Roshie** (AU) ([FB](https://www.facebook.com/pg/RoshieModel/))
-- **Rubber Eva** (UK) ([UK](https://www.rubberevashop.com)) 
 - **Sister Sinister** (SE) ([FB](https://www.facebook.com/SisSinister/) [IG](https://www.instagram.com/sister_sinister/) [TW](https://twitter.com/sistersinister))
 - **~~Starfucked~~Star model** (SE) ([WWW](https://starfuckedmodel.bigcartel.com/) [FB](https://www.facebook.com/pg/Starf.model) [IG](https://www.instagram.com/starfuckedmodel) [TW](https://twitter.com/StarfuckedModel))
 - **Susan Wayland** (DE) ([WWW](https://www.susanwaylandclub.com/) [FB](https://www.facebook.com/SusanWaylandOfficialPage/) [YT](https://www.youtube.com/channel/UCSaOMO1Ks_Lrvmb9OxrhrLw) [TW](https://twitter.com/susanwayland))
