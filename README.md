@@ -93,6 +93,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Shhh! Couture** (UK) ([WWW](https://www.shhhcouturelatex.co.uk/) [FB](https://www.facebook.com/pg/ShhhCoutureLatex) [IG](https://www.instagram.com/shhhcouturelatex) [TW](https://twitter.com/shhhcouture))
 - **Simon O** (AT) ([WWW](https://www.simon-o.com/))
 - **Strawberry Pandy Latex** (UK) ([ET](https://www.etsy.com/shop/StrawberryPandaStore) [FB](https://www.facebook.com/pg/StrawberryPandaLatex))
+- **Suzi Homewrecker Latex** (AU) ([FB](https://www.facebook.com/pg/SuziHomemakerAU) [IG](https://www.instagram.com/suzi_homewrecker_latex))
 - **Tableux Vivants** (US) ([WWW](https://www.tableauxvivantslatex.com/) [FB](https://www.facebook.com/TableauxVivants) [IG](https://www.instagram.com/tableaux_vivants) [TW](https://twitter.com/TABLEAUX_VIVANT))
 - **Tatjana Warnecke** (DE) ([WWW](https://www.tatjana-warnecke.com/))
 - **Tiina Rikala** (FI) ([FB](https://www.facebook.com/pg/latexbytiinarikala))
