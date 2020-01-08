@@ -129,6 +129,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ### Female
 - **Agna Devi** (RU) ([WWW](http://fetishmodel.ru/) [TW](https://twitter.com/agnafetish))
 - **Bianca Beauchamp** (CA) ([WWW](https://www.ilovebianca.com/) [FB](https://www.facebook.com/biancabeauchampmodel/) [IG](https://www.instagram.com/biancabeauchampmodel))
+- **Bloxi** (DE) ([FB](https://www.facebook.com/pg/Bloxi) [IG](https://www.instagram.com/miss_bloxi/))
 - **Bunny GlitterGun** (NL) ([FB](https://www.facebook.com/pg/BunnyGlitterGun/) [IG](https://www.instagram.com/BunnyGlitterGun/))
 - **Calamity Amelie** (SE) ([WWW](https://www.patreon.com/calamityamelie) [FB](https://www.facebook.com/pg/CalamityAmelie/))
 - **Cat Atonia** (DE) ([FB](https://www.facebook.com/pg/CatAtonia.Model/))
