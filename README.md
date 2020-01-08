@@ -150,6 +150,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **coJac Photography** (NL) ([WWW](https://www.facebook.com/cojacphoto) [FB](https://www.facebook.com/cojacphoto))
 - **dovearea** (SE) ([WWW](http://dovearea.se/) [FB](https://www.facebook.com/dovearea) [IG](https://www.instagram.com/dovearea.se/))
 - **EigenART** (DE) ([FB](https://www.facebook.com/pg/EigenART-fotographie-186926034789842))
+- **Gottlehrer** (DE) ([WWW](http://www.gottlehrer.de/) [FB](https://www.facebook.com/pg/gottlehrer))
 - **High Gloss Dolls** (DE) ([WWW](http://gallery.highglossdolls.com/))
 - **Josefien Hoekstra** (NL) ([WWW](https://josefienhoekstra.com/) [FB](https://www.facebook.com/pg/josefienhoekstra))
 - **Kink Engineer** (CH) ([WWW](https://www.kinkengineer.com) [FB](https://www.facebook.com/pg/KinkEngineer/) [IG](https://www.instagram.com/kink_engineer/))
