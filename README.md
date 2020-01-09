@@ -57,6 +57,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Coco Latex** (ES) ([FB](https://www.facebook.com/pg/coco.latex.madrid) [WWW](https://cocolatex.patternbyetsy.com/))
 - **Cocoon1** (UK) ([WWW](http://www.cocoon1.com/))
 - **Collective Chaos** (US) ([ET](https://www.etsy.com/shop/collectivechaos/) [FB](https://www.facebook.com/collectivechaos/) [IG](https://www.instagram.com/collectivechaos))
+- **Corsette** (PL) ([ET](https://www.etsy.com/shop/CorsetteLatex) [FB](https://www.facebook.com/pg/Corsettepl/))
 - **Danny Deluxe** (DE)  ([WWW](http://www.danny-deluxe.com) [FB](https://www.facebook.com/DannyDeluxeLatex))
 - **Dark Virtue Designs** (UK) ([WWW](https://darkvirtuedesigns.com/) [ET](https://www.etsy.com/shop/DarkVirtueDesigns) [FB](https://www.facebook.com/darkvirtuedesigns/))
 - **Dawnamatrix** (US) ([WEB](https://dawnamatrix.com/) [FB](https://www.facebook.com/DawnamatrixDesigns/) [IG](https://www.instagram.com/dawnamatrix/) [TW](https://twitter.com/dawnamatrix))
@@ -169,6 +170,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Calamity Amelie** (SE) ([WWW](https://www.patreon.com/calamityamelie) [FB](https://www.facebook.com/pg/CalamityAmelie/))
 - **Cat Atonia** (DE) ([FB](https://www.facebook.com/pg/CatAtonia.Model/))
 - **Dani Divine** (UK) ([WWW](https://danidivine.bigcartel.com/) [FB](https://www.facebook.com/pg/danidivinemodel) [IG](https://www.instagram.com/dani_divine))
+- **Dawina Starling** (CH) ([WWW](https://www.model-kartei.de/sedcards/model/74377/dawina) [FB](https://www.facebook.com/pg/modeldawina))
 - **Diva Nova/Emanuela Solomie** (DE) ([FB](https://www.facebook.com/pg/Diva-NovaEmanuela-Solomie-161528183887664))
 - **Dorothy C** (DE) ([WWW](https://www.model-kartei.de/portfolios/model/380603/dorothy-c/))
 - **Dutch Dame** (NL) ([WWW](https://www.dutchdame.com/) [FB](https://www.facebook.com/DutchDame) [IG](https://www.instagram.com/dutchdameofficial/) [TW](https://twitter.com/dutchdame1))
@@ -180,8 +182,10 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Kay Morgan** (BE) ([WWW](http://kay-morgan.com) [FB](https://www.facebook.com/pg/kaymorgan.fanpage) [IG](https://www.instagram.com/xkaymorgan))
 - **Katie Marin** (FI) ([WWW](http://www.katiemarin.com) [FB](https://www.facebook.com/pg/KatieMarinModel) [IG](https://www.instagram.com/katiemarin/))
 - **Katie Miller** (NL) ([FB](https://www.facebook.com/pg/katiemillerofficial))
+- **Kiet Katharsis** (NL) ([FB](https://www.facebook.com/pg/KietKatharsis.model) [IG](https://www.instagram.com/kietkatharsis/))
 - **L'Adinda Latex** (NL) ([FB](https://www.facebook.com/pg/ladindalatex/) [IG](https://www.instagram.com/l.adinda.latex/))
 - **Lara Aimee** (NL) ([WWW](http://www.lara-aimee.nl/) [FB](https://www.facebook.com/pg/LaraAimeeOfficial) [IG](https://www.instagram.com/the_lara_aimee/))
+- **LickyLinn** (SE) ([FB](https://www.facebook.com/pg/lickylinn) [IG](https://www.instagram.com/lickylinn))
 - **Mandy Xotoxic** (DE) ([ET](https://www.etsy.com/people/mandyxotoxic) [FB](https://www.facebook.com/pg/ModelMandyXotoxic) [IG](https://www.instagram.com/mandyxotoxic))
 - **Masuimi Max** (US) ([WWW](https://masuimimax.com) [FB](https://www.facebook.com/pg/MasuimiMax) [IG](https://www.instagram.com/MASUIMIMAX))
 - **Marilyn Yusuf** (BU) ([WWW](http://www.marilynlatex.com) [FB](https://www.facebook.com/MarilynYusuf/) [IG](https://www.instagram.com/marilynyusuf1))
@@ -207,6 +211,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Vaine Villaine** (DE) ([FB](https://www.facebook.com/pg/VaineVillaine/))
 - **Yolinda Vixen** (NL) ([FB](https://www.facebook.com/pg/yolindamodelpage))
 - **Zara Axeronias** (DE) ([FB](https://www.facebook.com/pg/Zara.Axeronias))
+- **Zara du Rose** (UK) ([WWW](https://onlyfans.com/ZaraDuRose) [FB](https://www.facebook.com/pg/ZaraDuRose))
 
 ### Male
 
@@ -230,6 +235,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Latexheaven** (N/A) ([WWW](http://www.latexheaven.com) [FB](https://www.facebook.com/pg/OfficialLatexHeaven))
 - **Luci Alice Photography** (UK) ([WWW](http://www.lucialicephotography.co.uk/) [FB](https://www.facebook.com/pg/lucialicephotography))
 - **Maxime Avet** (FR) ([FB](https://www.facebook.com/pg/We-3-Maxime-Avet-268712117650))
+- **Mcglogg Photography** (DE) ([FB](https://www.instagram.com/mcglogg/))
 - **Mew-Chiel** (NL) ([WWW](http://www.me-chiel.com) [FB](https://www.facebook.com/pg/mewchiel))
 - **O-Orb** (FI) ([WWW](http://www.0-orb.net/zero/) [FB](https://www.facebook.com/pg/0orb.shines) [IG](https://www.instagram.com/zero_scope/) [TW](https://twitter.com/Zer0orb))
 - **Philipp Ganzer** (DE) ([FB](https://www.facebook.com/pg/GanzerPhotography))
@@ -254,11 +260,14 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Magazines
 - **Bedesme Magazine** ([WWW](https://bedeseme.com/) [FB](https://www.facebook.com/Bedeseme) [IG](https://www.instagram.com/bedeseme/) [TW](https://twitter.com/Bedeseme) [YT](https://www.youtube.com/channel/UCCYrvQfpNBJQGNhQQ6gMmRQ))
   - **Latecstasy** ([WWW](https://bedeseme.com/latecstasy-issues/))
+- **Goliath Books** (DE) ([WWW](https://www.goliathbooks.com))
+- **Kultur Mag** (ZA) ([WWW](https://kulturmagazine.magcloud.com) [FB](https://www.facebook.com/KulturMag/))
 - **LTX Magazine** ([WWW](https://ltxmagazine1.wixsite.com/ltxmag) [FB](https://www.facebook.com/ltxmag))
 - **Rubber life** (book) ([WWW](http://www.rubberlife.com/))
 - **Skin Two Magazine** ([WWW](https://www.skintwo.com/sk2-magazine))
 - **Von Gutenberg** ([WWW](https://www.vongutenberg.com/) [FB](https://www.facebook.com/vongutenbergmagazine/) [IG](https://www.instagram.com/vongutenberg_magazine/) [TW](https://twitter.com/vongutenbergmag) [YT](https://www.youtube.com/user/ErikvonGutenberg/videos))
 - **The Fetishistas** ([WWW](https://thefetishistas.com))
+
 ## Resources
 - **Latex Wiki** ([WWW](https://latexwiki.com/index.php?title=Main_Page))
 - **Making latex clothing** ([WWW](http://makinglatexclothing.com/))
