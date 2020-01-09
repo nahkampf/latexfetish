@@ -198,6 +198,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Maxime Avet** (FR) ([FB](https://www.facebook.com/pg/We-3-Maxime-Avet-268712117650))
 - **Mew-Chiel** (NL) ([WWW](http://www.me-chiel.com) [FB](https://www.facebook.com/pg/mewchiel))
 - **O-Orb** (FI) ([WWW](http://www.0-orb.net/zero/) [FB](https://www.facebook.com/pg/0orb.shines) [IG](https://www.instagram.com/zero_scope/) [TW](https://twitter.com/Zer0orb))
+- **Philipp Ganzer** (DE) ([FB](https://www.facebook.com/pg/GanzerPhotography))
 - **Radiant Inc** (US) ([WWW](https://www.radiantinc.net/) [FB](https://www.facebook.com/pg/Radiant.Inc.L))
 - **S&M Photography** (DE) ([FB](https://www.facebook.com/pg/SM.Fashion.Photography))
 - **Vera Bruss** (DE) ([WWW](http://www.artveo.de/fetish.html))
