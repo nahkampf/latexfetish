@@ -59,11 +59,13 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Feline Latex Design** (DE) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
 - **Fetico** (DE) ([WWW](https://www.feitico.de/) [FB](https://www.facebook.com/FeiticoMasken))
 - **FutureFetish** (DE) ([WWW](https://futurefetish.com/) [FB](https://www.facebook.com/futurefetishcom-149545578400416/) [IG](https://www.instagram.com/futurefetish) [TW](https://twitter.com/futurefetish))
+- **Gumique** (PL) ([WWW](https://www.gumique.com))
 - **Hedony Design** (FR) ([WWW](https://www.hedonydesign.com) [FB](https://www.facebook.com/pg/hedonydesignparis))
 - **High Gloss Dolls/Katja Erhardt** (DE) ([WWW](http://gallery.highglossdolls.com/shop/))
 - **House of Harlot** (UK) ([WWW](http://www.houseofharlot.com/) [FB](https://www.facebook.com/houseofharlot) [IG](https://www.instagram.com/houseofharlot/) [TW](https://twitter.com/houseofharlot))
 - **HW Design** (AT) ([WWW](https://www.hwdesignshop.com/) [FB](https://www.facebook.com/hwdesignlatex/) [TW](https://twitter.com/HWD_latex))
 - **Inner Sanctum** (DE) ([WWW](http://www.innersanctumonline.com/) [FB](https://www.facebook.com/pg/InnerSanctumLatex))
+- **Invincible Rubber** (UK) ([WWW](https://www.invinciblerubber.com))
 - **Isabeau Ouvert** (DE) ([WWW](https://www.isabeau-ouvert.com/latex-fashion/))
 - **Jane Doe Latex** (US) ([WWW](https://shop.janedoelatex.com/) [FB](https://www.facebook.com/Janedoelatex/) [IG](https://www.instagram.com/janedoelatex) [TW](https://twitter.com/janedoelatex))
 - **Kaori's Latex Dreams** (UK) ([WWW](http://kaorislatexdreams.com/) [ET](https://www.etsy.com/shop/kaorislatexdreams) [FB](https://www.facebook.com/pg/kaorislatexdreams))
@@ -72,11 +74,14 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Lacing Lilith** (UK) ([WWW](www.lacinglilith.com) [FB](https://www.facebook.com/pg/lacinglilithlatexcouture))
 - **Lady Lucie Latex** (UK) ([WWW](https://ladylucie.com/) [FB](https://www.facebook.com/LadyLucieLatex/) [IG](https://www.instagram.com/ladylucielatex))
 - **Lady Oops** (NL) ([WWW](https://ladyoops.com))
+- **Latex 101** (UK) ([WWW](https://www.latex101.com/shop/))
 - **Latexa** (DE) ([WWW](http://www.latexa.com/) [FB](https://www.facebook.com/latexa.gmbh/)) 
 - **Latexcrazy** (DE) ([WWW](https://www.latexcrazy.com/) [FB](https://www.facebook.com/latexcrazyshop/) [IG]( https://www.instagram.com/latexcrazy))
 - **Latex Epicentre** (UK) ([EB](https://www.ebay.co.uk/str/latexepicentre) [FB](https://www.facebook.com/pg/latexepicentre))
 - **Latexion Design** (US) ([FB](https://www.facebook.com/latexiondesign) [ET](https://www.etsy.com/shop/latexion))
+- **Latex Fashion Design** (DE) ([WWW](https://shop.latex-fashion.de))
 - **Libidex** (UK) ([WWW](http://www.libidex.com) [FB](https://www.facebook.com/libidex/) [TW](https://twitter.com/LibidexLtd) [IG](https://www.instagram.com/libidex/))
+- **LLde Saxe Fashion** (DE) ([WWW](https://lldesaxe-fashion.de))
 - **Lovnblack Latex Designs** (BU) ([FB](https://www.facebook.com/pg/lovnblacklatex/posts/) [ET](https://www.etsy.com/shop/lovnblack))
 - **LTX Clothing** (PL) ([WWW](http://www.ltxclothing.com/) [ET](https://www.etsy.com/uk/people/ltxclothing) [FB](https://www.facebook.com/pg/ltxclothingcom) [IG](https://www.instagram.com/ltxclothing/))
 - **Lunaslatex** (NL) ([ET](https://www.etsy.com/nl/shop/Lunaslatex) [FB](https://www.facebook.com/lunaslatexx-1275687902594977/))
@@ -88,10 +93,12 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Maebelle Latex** (SE) ([WWW](https://maebellelatex.com) [FB](https://www.facebook.com/maebellelatex))
 - **MaggieDelena** (US) ([WWW](http://www.maggiedelena.com/) [FB](https://www.facebook.com/maggiedelenalatex/))
 - **Maniac Latex** (DE) ([WWW](https://www.maniaclatex.com/) [FB](https://www.facebook.com/maniaclatex) [IG](https://www.instagram.com/maniaclatex/))
+- **MD-Latex** (DE) ([WW](https://www.md-latex.eu))
 - **Mico Couture** (UK) ([WWW](https://micocouture.com/) [FB](https://www.facebook.com/pg/micocouture/) [IG](https://www.instagram.com/micocouturelatex/) [TW](https://twitter.com/micocouture))
 - **Miss Grey Latex** (DE) ([FB](https://www.facebook.com/pg/missgreylatex/))
 - **Mrs. Gravedigger Latex** (DE) ([ET](https://www.etsy.com/de/shop/MrsGravedigger) [FB](https://www.facebook.com/mrsgravediggerLatex))
 - **Ooh La Latex** (UK) ([FB](https://www.facebook.com/pg/oohlalatex))
+- **Pandora Deluxe** (UK) ([WWW](https://www.pandoradeluxe.com) [FB](https://en-gb.facebook.com/PandoraDeluxeLatex/) [IG](https://www.instagram.com/pandoradeluxe/))
 - **Piranha Latex** (CZ) ([FB](https://www.facebook.com/pg/latexpiranha))
 - **Polymorphe** (CA) ([WWW](https://polymorphe.com) [FB](https://www.facebook.com/pg/Polymorphe.Latex))
 - **Reneé Masoomian** (US) ([WWW](http://www.reneemasoomian.com) [FB](https://www.facebook.com/pg/ReneeMasoomianNYC) [TW](https://twitter.com/ReneeMasoomian))
@@ -123,6 +130,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Shops
 - **Absolute Danny** (NL) ([WWW](http://www.absolutedanny.com/) [FB](https://www.facebook.com/pg/Absolute-Danny-388274791324944))
 - **Honour** (UK) ([WWW](https://www.honour.co.uk) [FB](https://www.facebook.com/honourclothing01) [IG](https://www.instagram.com/honourclothing/) [TW](https://twitter.com/honourclothing) [YT](https://www.youtube.com/user/honourclothing/))
+- **Rubber Eva** (UK) ([UK](https://www.rubberevashop.com)) 
 - **Stockroom** (US) ([WWW](https://www.stockroom.com/))
 
 ## Models
@@ -188,10 +196,12 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **O-Orb** (FI) ([WWW](http://www.0-orb.net/zero/) [FB](https://www.facebook.com/pg/0orb.shines) [IG](https://www.instagram.com/zero_scope/) [TW](https://twitter.com/Zer0orb))
 - **Radiant Inc** (US) ([WWW](https://www.radiantinc.net/) [FB](https://www.facebook.com/pg/Radiant.Inc.L))
 - **S&M Photography** (DE) ([FB](https://www.facebook.com/pg/SM.Fashion.Photography))
+- **Vera Bruss** (DE) ([WWW](http://www.artveo.de/fetish.html))
 
 ## Communities
 - **Darkside** (SE) ([WWW](http://darkside.se))
 - **FetLife** (US) ([WWW](http://fetlife.com))
+- **JOYclub** (DE) ([WWW](https://www.joyclub.com))
 
 ## Events
 - **German Fetish Ball** (DE) ([WWW](https://www.german-fetish-ball.com/) [FB](https://www.facebook.com/germanfetishballweekend) [IG](https://www.instagram.com/germanfetishball/) [TW](https://twitter.com/germanfetball) [YT](https://www.youtube.com/user/germanfetishball))
@@ -206,7 +216,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Rubber life** (book) ([WWW](http://www.rubberlife.com/))
 - **Skin Two Magazine** ([WWW](https://www.skintwo.com/sk2-magazine))
 - **Von Gutenberg** ([WWW](https://www.vongutenberg.com/) [FB](https://www.facebook.com/vongutenbergmagazine/) [IG](https://www.instagram.com/vongutenberg_magazine/) [TW](https://twitter.com/vongutenbergmag) [YT](https://www.youtube.com/user/ErikvonGutenberg/videos))
-
+- **The Fetishistas** ([WWW](https://thefetishistas.com))
 ## Resources
 - **Latex Wiki** ([WWW](https://latexwiki.com/index.php?title=Main_Page))
 - **Making latex clothing** ([WWW](http://makinglatexclothing.com/))
