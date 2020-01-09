@@ -97,6 +97,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **MD-Latex** (DE) ([WW](https://www.md-latex.eu))
 - **Mico Couture** (UK) ([WWW](https://micocouture.com/) [FB](https://www.facebook.com/pg/micocouture/) [IG](https://www.instagram.com/micocouturelatex/) [TW](https://twitter.com/micocouture))
 - **Miss Grey Latex** (DE) ([FB](https://www.facebook.com/pg/missgreylatex/))
+- **Moon Bunny** (UK) ([FB](https://www.facebook.com/pg/moonbunnylatex/) [ET](https://www.etsy.com/uk/shop/MoonBunnyLatex))
 - **Mrs. Gravedigger Latex** (DE) ([ET](https://www.etsy.com/de/shop/MrsGravedigger) [FB](https://www.facebook.com/mrsgravediggerLatex))
 - **Ooh La Latex** (UK) ([FB](https://www.facebook.com/pg/oohlalatex))
 - **Pandora Deluxe** (UK) ([WWW](https://www.pandoradeluxe.com) [FB](https://en-gb.facebook.com/PandoraDeluxeLatex/) [IG](https://www.instagram.com/pandoradeluxe/))
