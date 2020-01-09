@@ -91,6 +91,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Latex Epicentre** (UK) ([EB](https://www.ebay.co.uk/str/latexepicentre) [FB](https://www.facebook.com/pg/latexepicentre))
 - **Latexion Design** (US) ([FB](https://www.facebook.com/latexiondesign) [ET](https://www.etsy.com/shop/latexion))
 - **Latex Fashion Design** (DE) ([WWW](https://shop.latex-fashion.de))
+- **LatexSensation** (NL) ([WWW](http://www.latexsensation.nl/) [ET](https://www.etsy.com/nl/shop/LatexSensation) [FB](https://www.facebook.com/pg/LatexSensation/) [IG](https://www.instagram.com/latexsensation/))
 - **Libidex** (UK) ([WWW](http://www.libidex.com) [FB](https://www.facebook.com/libidex/) [TW](https://twitter.com/LibidexLtd) [IG](https://www.instagram.com/libidex/))
 - **LLde Saxe Fashion** (DE) ([WWW](https://lldesaxe-fashion.de))
 - **Lovnblack Latex Designs** (BU) ([FB](https://www.facebook.com/pg/lovnblacklatex/posts/) [ET](https://www.etsy.com/shop/lovnblack))
@@ -110,6 +111,8 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Miss Grey Latex** (DE) ([FB](https://www.facebook.com/pg/missgreylatex/))
 - **Moon Bunny** (UK) ([FB](https://www.facebook.com/pg/moonbunnylatex/) [ET](https://www.etsy.com/uk/shop/MoonBunnyLatex))
 - **Mrs. Gravedigger Latex** (DE) ([ET](https://www.etsy.com/de/shop/MrsGravedigger) [FB](https://www.facebook.com/mrsgravediggerLatex))
+- **Noritex** (AT) ([WWW](http://www.noritex.at) [FB](https://www.facebook.com/NoritexDesign))
+- **Odd Territory** (NL) ([WWW](https://oddterritory.com) [FB](https://www.facebook.com/pg/oddterritory) [IG](https://www.instagram.com/oddterritory/))
 - **Ooh La Latex** (UK) ([FB](https://www.facebook.com/pg/oohlalatex))
 - **Pandora Deluxe** (UK) ([WWW](https://www.pandoradeluxe.com) [FB](https://en-gb.facebook.com/PandoraDeluxeLatex/) [IG](https://www.instagram.com/pandoradeluxe/))
 - **Piranha Latex** (CZ) ([FB](https://www.facebook.com/pg/latexpiranha))
@@ -121,8 +124,10 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Rubbella** (NL) ([WWW](https://www.rubbella.nl) [FB](https://www.facebook.com/pg/Rubbella) [IG](https://www.instagram.com/wendyrubbella/) [YT](https://www.youtube.com/user/wendyrubbella))
 - **Rubber55** (UK) ([WWW](https://rubber55.co.uk/) [FB](https://www.facebook.com/Rubber55official/) [IG](https://www.instagram.com/rubber55_official/))
 - **RubberBambi** (DE) ([WWW](https://rubberbambi.de) [FB](https://www.facebook.com/pg/RubberBambi-1450071368632463))
+- **Rubberik** (AT) ([WWW](https://www.rubberik.at) [FB](https://www.facebook.com/rubberik.at) [IG](https://www.instagram.com/rubberik.latexmanufacture/) [TW](https://twitter.com/rubberik))
 - **Savage Wear** (DE) ([WWW](https://www.savage-wear.com/) [FB](https://www.facebook.com/pg/savagewear) [TW](https://twitter.com/savagewear))
 - **Sebastian Cauchos** (NL) ([WWW](https://sebastiancauchos.bigcartel.com) [ET](https://www.etsy.com/shop/SebastianCauchos) [FB](https://www.facebook.com/pg/sebastiancauchos.design) [IG](https://www.instagram.com/sebastiancauchos))
+- **Sensory Delight Latex** (UK) ([FB](https://www.facebook.com/SensoryDelightLatex) [IG](https://www.instagram.com/sensorydelightlatex/))
 - **Shhh! Couture** (UK) ([WWW](https://www.shhhcouturelatex.co.uk/) [FB](https://www.facebook.com/pg/ShhhCoutureLatex) [IG](https://www.instagram.com/shhhcouturelatex) [TW](https://twitter.com/shhhcouture))
 - **Simon O** (AT) ([WWW](https://www.simon-o.com/))
 - **Skintight Latex** (NL) ([FB](https://www.facebook.com/pg/skintightlatexclothes/))
@@ -156,6 +161,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Models
 ### Female
 - **Agna Devi** (RU) ([WWW](http://fetishmodel.ru/) [TW](https://twitter.com/agnafetish))
+- **Alexa Moorre** (NL) ([WWW](https://www.patreon.com/alexamoorre) [FB](https://www.facebook.com/pg/AlexaMoorre))
 - **Bella Isadora** (DE) ([FB](https://www.facebook.com/pg/modelbellaisadora) [IG](https://www.instagram.com/bella_isadora_official/))
 - **Bianca Beauchamp** (CA) ([WWW](https://www.ilovebianca.com/) [FB](https://www.facebook.com/biancabeauchampmodel/) [IG](https://www.instagram.com/biancabeauchampmodel))
 - **Bloxi** (DE) ([FB](https://www.facebook.com/pg/Bloxi) [IG](https://www.instagram.com/miss_bloxi/))
@@ -189,6 +195,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **My Little Vronie** (SE) ([WWW](https://onlyfans.com/mylittlevronie) [FB](https://www.facebook.com/MyLittleVronie))
 - **Nina Kate** (US) ([FB](https://www.facebook.com/pg/Nina.Kate.D) [IG](https://www.instagram.com/nina_kate/))
 - **Onna Sakura** (DE) ([FB](https://www.facebook.com/pg/onnasakurafetishmodel/))
+- **Plüschpeitsche** (DE) ([FB](https://www.facebook.com/pg/plueschpeitsche))
 - **Psylocke** (SE) ([FB](https://www.facebook.com/Psylocke.se) [IG](https://www.instagram.com/psylocke_model/) [TW](https://twitter.com/psylockemodel))
 - **Romanie Smith** (UK) ([WWW](http://www.romaniesmith.com/) [FB](https://www.facebook.com/pg/romaniesmithmodel/) [IG](https://www.instagram.com/romaniesmith/))
 - **Roshie** (AU) ([FB](https://www.facebook.com/pg/RoshieModel/))
@@ -199,6 +206,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Ulorin Vex** (US) ([WWW](https://www.ulorinvex.com) [FB](https://www.facebook.com/pg/ulorinvex))
 - **Vaine Villaine** (DE) ([FB](https://www.facebook.com/pg/VaineVillaine/))
 - **Yolinda Vixen** (NL) ([FB](https://www.facebook.com/pg/yolindamodelpage))
+- **Zara Axeronias** (DE) ([FB](https://www.facebook.com/pg/Zara.Axeronias))
 
 ### Male
 
@@ -220,6 +228,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **L.A.TEX** (DE) ([WWW](http://www.l-a-tex.com/) [FB](https://www.facebook.com/pg/L.A.TEX1))
 - **Latexperiment** (DE) ([WWW](https://www.latexperiment.com) [FB](https://www.facebook.com/pg/latexperiment) [IG](https://www.instagram.com/latexperiment/))
 - **Latexheaven** (N/A) ([WWW](http://www.latexheaven.com) [FB](https://www.facebook.com/pg/OfficialLatexHeaven))
+- **Luci Alice Photography** (UK) ([WWW](http://www.lucialicephotography.co.uk/) [FB](https://www.facebook.com/pg/lucialicephotography))
 - **Maxime Avet** (FR) ([FB](https://www.facebook.com/pg/We-3-Maxime-Avet-268712117650))
 - **Mew-Chiel** (NL) ([WWW](http://www.me-chiel.com) [FB](https://www.facebook.com/pg/mewchiel))
 - **O-Orb** (FI) ([WWW](http://www.0-orb.net/zero/) [FB](https://www.facebook.com/pg/0orb.shines) [IG](https://www.instagram.com/zero_scope/) [TW](https://twitter.com/Zer0orb))
@@ -234,7 +243,10 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **JOYclub** (DE) ([WWW](https://www.joyclub.com))
 
 ## Events
+- **Avantgardista** (DE) ([WWW](https://avantgardista.net) [FB](https://www.facebook.com/pg/avantgardista))
+- **EuroPerve** (NL) ([WWW](https://europerve.org) [FB](https://www.facebook.com/pg/EuroPerve))
 - **German Fetish Ball** (DE) ([WWW](https://www.german-fetish-ball.com/) [FB](https://www.facebook.com/germanfetishballweekend) [IG](https://www.instagram.com/germanfetishball/) [TW](https://twitter.com/germanfetball) [YT](https://www.youtube.com/user/germanfetishball))
+- **Luxuria** (HU) ([WWW](http://www.luxuriaparty.hu/) [FB](https://www.facebook.com/pg/Luxuria-774635125991349))
 - **RubberCult** (UK) ([WWW](http://www.rubber-cult.com) [FB](https://www.facebook.com/pg/RubberCult/))
 - **Unleashed** (NL) ([WWW](https://www.unleashedparty.com/) [FB](https://www.facebook.com/pg/UnleashedParty) [IG](https://www.instagram.com/unleashedparty/))
 - **Wasteland** (NL/DE) ([WWW](https://www.wasteland.nl/) [FB](https://www.facebook.com/Wastelandparty/))
