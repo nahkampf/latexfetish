@@ -29,6 +29,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Designers
 - **Abigail Greydanus** (US) ([WWW](https://www.abigailgreydanus.com) [ET](https://www.etsy.com/se-en/shop/abigailgreydanus) [FB](https://www.facebook.com/abigailgreydanus/))
 - **Abstinence Latex** (SE) ([ET](https://www.etsy.com/shop/Abstinencelatex) [FB](https://www.facebook.com/pg/abstinence.latex))
+- **Abtex-design** (FR) ([WWW](http://abtex-design.com) [FB](https://www.facebook.com/pg/AbtexDesign))
 - **Adala Clothing** (CA) ([FB](https://www.facebook.com/pg/Adalaclothing))
 - **Andromeda Latex** (RU) ([WWW](http://andromeda-latex.com/) [FB](https://www.facebook.com/pg/Andromedalatex) [IG](https://www.instagram.com/andromeda_latex/))
 - **Antidote London** (UK) ([WWW](http://antidotelondonlatex.co.uk) [FB](https://www.facebook.com/pg/AntidoteLondonLatex))
@@ -114,6 +115,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Reneé Masoomian** (US) ([WWW](http://www.reneemasoomian.com) [FB](https://www.facebook.com/pg/ReneeMasoomianNYC) [TW](https://twitter.com/ReneeMasoomian))
 - **Rosengarn** (DE) ([WWW](https://www.rosengarn.de/) [FB](https://www.facebook.com/pg/Rosengarn/))
 - **Rose Noir Design** (UK) ([WWW](http://rosenoirdesigns.com/) [FB](https://www.facebook.com/rosenoirdesigns/) [IG](https://www.instagram.com/rosenoirdesigns/) [TW](https://twitter.com/rosenoirdesigns))
+- **RubAddiction Berlin** (DE) ([WWW](https://www.rubaddiction.com/) [FB](https://www.facebook.com/pg/RubAddictionBerlin))
 - **Rubbella** (NL) ([WWW](https://www.rubbella.nl) [FB](https://www.facebook.com/pg/Rubbella) [IG](https://www.instagram.com/wendyrubbella/) [YT](https://www.youtube.com/user/wendyrubbella))
 - **Rubber55** (UK) ([WWW](https://rubber55.co.uk/) [FB](https://www.facebook.com/Rubber55official/) [IG](https://www.instagram.com/rubber55_official/))
 - **RubberBambi** (DE) ([WWW](https://rubberbambi.de) [FB](https://www.facebook.com/pg/RubberBambi-1450071368632463))
@@ -139,6 +141,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Westward Bound** (UK) ([WWW](https://www.westwardbound.com/) [FB](https://www.facebook.com/westwardboundlatex/) [IG](https://www.instagram.com/westwardboundlatex/) [TW](https://twitter.com/westward_bound))
 - **Whiphshhh Latex** (NZ) ([FB](https://www.facebook.com/pg/Whipshhh))
 - **William Wilde** (UK) ([WWW](https://www.williamwilde.com) [FB](https://www.facebook.com/pg/mrwilliamwilde/) [YT](https://www.youtube.com/user/WilliamWildeTV))
+- **Yummy Gummy Sheet Latex** (UK) ([WWW](www.yummygummylatex.com) [FB](https://www.facebook.com/pg/YummyGummyLatex))
 - **Zorenko London** (UK) ([WWW](https://www.zorenko.co.uk/) [FB](https://www.facebook.com/pg/Zorenko.LDN) [IG](https://www.instagram.com/zorenkolondon/) [TW](https://twitter.com/ZorenkoLondon))
 
 ## Shops
@@ -159,6 +162,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Dani Divine** (UK) ([WWW](https://danidivine.bigcartel.com/) [FB](https://www.facebook.com/pg/danidivinemodel) [IG](https://www.instagram.com/dani_divine))
 - **Diva Nova/Emanuela Solomie** (DE) ([FB](https://www.facebook.com/pg/Diva-NovaEmanuela-Solomie-161528183887664))
 - **Dutch Dame** (NL) ([WWW](https://www.dutchdame.com/) [FB](https://www.facebook.com/DutchDame) [IG](https://www.instagram.com/dutchdameofficial/) [TW](https://twitter.com/dutchdame1))
+- **ElegyEllem** (SE) ([WWW](https://www.patreon.com/ElegyEllem) [FB](https://www.facebook.com/pg/ElegyEllemModel/))
 - **Eva Lilienthal** (DE) ([WWW](http://www.evalilienthal.de/) [FB](https://www.facebook.com/pg/ModelEvaLilienthal))
 - **Frau Tagtraum** (DE) ([FB](https://www.facebook.com/FrauTagtraum) [IG](https://www.instagram.com/frau.tagtraum/))
 - **Honeyhair** (CZ) ([WWW](http://www.honeyhair.net) [FB](https://www.facebook.com/Honeyhairmodel) [IG](https://www.instagram.com/honeyhair_model/) [TW](https://twitter.com/Honeyhair) [YT](https://www.youtube.com/user/modelHoneyhair))
@@ -180,9 +184,11 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Miss Suzume** (DE) ([FB](https://www.facebook.com/pg/misssuzume) [IG](https://www.instagram.com/miss_suzume_model))
 - **My Little Vronie** (SE) ([WWW](https://onlyfans.com/mylittlevronie) [FB](https://www.facebook.com/MyLittleVronie))
 - **Nina Kate** (US) ([FB](https://www.facebook.com/pg/Nina.Kate.D) [IG](https://www.instagram.com/nina_kate/))
+- **Onna Sakura** (DE) ([FB](https://www.facebook.com/pg/onnasakurafetishmodel/))
 - **Psylocke** (SE) ([FB](https://www.facebook.com/Psylocke.se) [IG](https://www.instagram.com/psylocke_model/) [TW](https://twitter.com/psylockemodel))
 - **Romanie Smith** (UK) ([WWW](http://www.romaniesmith.com/) [FB](https://www.facebook.com/pg/romaniesmithmodel/) [IG](https://www.instagram.com/romaniesmith/))
 - **Roshie** (AU) ([FB](https://www.facebook.com/pg/RoshieModel/))
+- **SALVATION** (DE) ([FB](https://www.facebook.com/SalvationFetishmodel/))
 - **Sister Sinister** (SE) ([FB](https://www.facebook.com/SisSinister/) [IG](https://www.instagram.com/sister_sinister/) [TW](https://twitter.com/sistersinister))
 - **~~Starfucked~~Star model** (SE) ([WWW](https://starfuckedmodel.bigcartel.com/) [FB](https://www.facebook.com/pg/Starf.model) [IG](https://www.instagram.com/starfuckedmodel) [TW](https://twitter.com/StarfuckedModel))
 - **Susan Wayland** (DE) ([WWW](https://www.susanwaylandclub.com/) [FB](https://www.facebook.com/SusanWaylandOfficialPage/) [YT](https://www.youtube.com/channel/UCSaOMO1Ks_Lrvmb9OxrhrLw) [TW](https://twitter.com/susanwayland))
@@ -196,6 +202,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 
 ## Photographers
 - **Belinda Bartzner** (SE) ([FB](https://www.facebook.com/pg/PhotographerBelindaBartzner))
+- **Chocolate Eye Photography** ([WWW](https://chocolate-eye.de) [FB](https://www.facebook.com/pg/chocolate.eye.photography))
 - **coJac Photography** (NL) ([WWW](https://www.facebook.com/cojacphoto) [FB](https://www.facebook.com/cojacphoto))
 - **dovearea** (SE) ([WWW](http://dovearea.se/) [FB](https://www.facebook.com/dovearea) [IG](https://www.instagram.com/dovearea.se/))
 - **EigenART** (DE) ([FB](https://www.facebook.com/pg/EigenART-fotographie-186926034789842))
