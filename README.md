@@ -61,6 +61,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Danny Deluxe** (DE)  ([WWW](http://www.danny-deluxe.com) [FB](https://www.facebook.com/DannyDeluxeLatex))
 - **Dark Virtue Designs** (UK) ([WWW](https://darkvirtuedesigns.com/) [ET](https://www.etsy.com/shop/DarkVirtueDesigns) [FB](https://www.facebook.com/darkvirtuedesigns/))
 - **Dawnamatrix** (US) ([WEB](https://dawnamatrix.com/) [FB](https://www.facebook.com/DawnamatrixDesigns/) [IG](https://www.instagram.com/dawnamatrix/) [TW](https://twitter.com/dawnamatrix))
+- **Dazzled Design Latex** (NL) ([WWW](https://dazzleddesignslatex.com) [FB](https://www.facebook.com/pg/DazzledDesignsLatex) [IG](https://www.instagram.com/dazzleddesignslatex/))
 - **Dead Lotus Couture** (UK) ([WWW](https://www.deadlotuscouture.com) [FB](https://www.facebook.com/DeadLotusCouture/) [YT](https://www.youtube.com/channel/UCNm8Hhp3p-zA33TXrf6hhZw))
 - **Demask** (CZ/NL) ([WEB](http://www.demask.com) [FB](https://www.facebook.com/DemaskAmsterdam/) [IG](https://www.instagram.com/demask_international/) [TW](https://twitter.com/DeMasK) [YT](https://www.youtube.com/user/demaskinternational))
 - **Dollskin Designs** (US) ([ET](https://www.etsy.com/shop/dollskindesignslatex) [FB](https://www.facebook.com/pg/DollskinDesignsLatex))
