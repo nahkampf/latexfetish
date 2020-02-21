@@ -85,6 +85,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Kaori's Latex Dreams** (UK) ([WWW](http://kaorislatexdreams.com/) [ET](https://www.etsy.com/shop/kaorislatexdreams) [FB](https://www.facebook.com/pg/kaorislatexdreams))
 - **Kim West** (UK) ([WWW](https://www.kimwest.co.uk/) [FB](https://www.facebook.com/pg/kimwest.fanpage))
 - **Kinkside Latex** (RU) ([WWW](http://kinkside.com/) [FB](https://www.facebook.com/pg/kinkside) [IG](https://www.instagram.com/kinkside/) [TW](https://twitter.com/KinksideLatex))
+- **Kirsten Li Design** (US) ([WWW](http://www.kirstenlidesigns.com) [FB](https://www.facebook.com/kirstenlidesigns/))
 - **Lacing Lilith** (UK) ([WWW](www.lacinglilith.com) [FB](https://www.facebook.com/pg/lacinglilithlatexcouture))
 - **Lady Lucie Latex** (UK) ([WWW](https://ladylucie.com/) [FB](https://www.facebook.com/LadyLucieLatex/) [IG](https://www.instagram.com/ladylucielatex))
 - **Lady Oops** (NL) ([WWW](https://ladyoops.com))
