@@ -94,6 +94,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Latex Epicentre** (UK) ([EB](https://www.ebay.co.uk/str/latexepicentre) [FB](https://www.facebook.com/pg/latexepicentre))
 - **Latexion Design** (US) ([FB](https://www.facebook.com/latexiondesign) [ET](https://www.etsy.com/shop/latexion))
 - **Latex Fashion Design** (DE) ([WWW](https://shop.latex-fashion.de))
+- **Latex Nation** (CL) ([FB](https://www.facebook.com/pg/latexnation.cl/) [IG](https://www.instagram.com/latex_nation/))
 - **LatexSensation** (NL) ([WWW](http://www.latexsensation.nl/) [ET](https://www.etsy.com/nl/shop/LatexSensation) [FB](https://www.facebook.com/pg/LatexSensation/) [IG](https://www.instagram.com/latexsensation/))
 - **Libidex** (UK) ([WWW](http://www.libidex.com) [FB](https://www.facebook.com/libidex/) [TW](https://twitter.com/LibidexLtd) [IG](https://www.instagram.com/libidex/))
 - **LLde Saxe Fashion** (DE) ([WWW](https://lldesaxe-fashion.de))
