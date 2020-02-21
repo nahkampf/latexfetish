@@ -33,6 +33,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Adala Clothing** (CA) ([FB](https://www.facebook.com/pg/Adalaclothing))
 - **Andromeda Latex** (RU) ([WWW](http://andromeda-latex.com/) [FB](https://www.facebook.com/pg/Andromedalatex) [IG](https://www.instagram.com/andromeda_latex/))
 - **Antidote London** (UK) ([WWW](http://antidotelondonlatex.co.uk) [FB](https://www.facebook.com/pg/AntidoteLondonLatex))
+- **Amentium** (UK) ([WWW](https://www.amentium.co.uk/) [FB](https://www.facebook.com/amentium/))
 - **AM Statik** (UK) ([WWW](https://amstatik.wixsite.com/amstatiklatex) [FB](https://www.facebook.com/pg/AmStatik) [IG](https://www.instagram.com/amstatiklatex/) [TW](https://twitter.com/AmStatiklatex))
 - **Amatoris Latex-Couture** (DE) ([WWW](http://www.amatoris.de/shop/) [FB](https://www.facebook.com/pg/AmatorisLatexCouture))
 - **Ardita Fetish Fashion** (NL) ([WWW](https://www.arditaff.com/) [FB](https://www.facebook.com/pg/ArditaFF))
