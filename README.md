@@ -264,6 +264,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
   - **Latecstasy** ([WWW](https://bedeseme.com/latecstasy-issues/))
 - **Goliath Books** (DE) ([WWW](https://www.goliathbooks.com))
 - **Kultur Mag** (ZA) ([WWW](https://kulturmagazine.magcloud.com) [FB](https://www.facebook.com/KulturMag/))
+- **Latex 24/7** (UK) ([WWW](https://www.latex247.co.uk) [FB](https://www.facebook.com/latex247) [IG](https://www.instagram.com/latex247/))
 - **LTX Magazine** ([WWW](https://ltxmagazine1.wixsite.com/ltxmag) [FB](https://www.facebook.com/ltxmag))
 - **Rubber life** (book) ([WWW](http://www.rubberlife.com/))
 - **Skin Two Magazine** ([WWW](https://www.skintwo.com/sk2-magazine))
