@@ -194,6 +194,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Masuimi Max** (US) ([WWW](https://masuimimax.com) [FB](https://www.facebook.com/pg/MasuimiMax) [IG](https://www.instagram.com/MASUIMIMAX))
 - **Marilyn Yusuf** (BU) ([WWW](http://www.marilynlatex.com) [FB](https://www.facebook.com/MarilynYusuf/) [IG](https://www.instagram.com/marilynyusuf1))
 - **Mary D** (CH) ([FB](https://www.facebook.com/pg/ModelMaryD))
+- **MerySP** (UK) ([FB](https://www.facebook.com/pg/xMerySPx/) [IG](https://www.instagram.com/xmeryspx/))
 - **Misplaced** (DE) ([FB](https://www.facebook.com/pg/misplaced.official))
 - **Miss Agavi** (PL) ([FB](https://www.facebook.com/pg/miss.agavi) [IG](https://www.instagram.com/miss_agavi))
 - **Miss Loulou** (SE) ([FB](https://www.facebook.com/pg/ModelLoulou))
