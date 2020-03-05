@@ -116,6 +116,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Miss Grey Latex** (DE) ([FB](https://www.facebook.com/pg/missgreylatex/))
 - **Moon Bunny** (UK) ([FB](https://www.facebook.com/pg/moonbunnylatex/) [ET](https://www.etsy.com/uk/shop/MoonBunnyLatex))
 - **Mrs. Gravedigger Latex** (DE) ([ET](https://www.etsy.com/de/shop/MrsGravedigger) [FB](https://www.facebook.com/mrsgravediggerLatex))
+- **Nikita Latex** (UK) ([ET](https://www.etsy.com/uk/shop/Latexfashionboutique) [FB](https://www.facebook.com/pg/Latexfashionboutique) [IG](https://www.instagram.com/nikitalatex))
 - **Noritex** (AT) ([WWW](http://www.noritex.at) [FB](https://www.facebook.com/NoritexDesign))
 - **Odd Territory** (NL) ([WWW](https://oddterritory.com) [FB](https://www.facebook.com/pg/oddterritory) [IG](https://www.instagram.com/oddterritory/))
 - **Ooh La Latex** (UK) ([FB](https://www.facebook.com/pg/oohlalatex))
