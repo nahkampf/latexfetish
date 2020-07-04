@@ -131,6 +131,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Rubber55** (UK) ([WWW](https://rubber55.co.uk/) [FB](https://www.facebook.com/Rubber55official/) [IG](https://www.instagram.com/rubber55_official/))
 - **RubberBambi** (DE) ([WWW](https://rubberbambi.de) [FB](https://www.facebook.com/pg/RubberBambi-1450071368632463))
 - **Rubberik** (AT) ([WWW](https://www.rubberik.at) [FB](https://www.facebook.com/rubberik.at) [IG](https://www.instagram.com/rubberik.latexmanufacture/) [TW](https://twitter.com/rubberik))
+- **Sasha Louise Latex** (UK) ([WWW](https://www.sashalouise.co.uk/) [IG](https://www.instagram.com/sashalouiselatex/) [FB](https://www.facebook.com/SashalouiseLatex/) [TW](https://twitter.com/_sashalouise))
 - **Savage Wear** (DE) ([WWW](https://www.savage-wear.com/) [FB](https://www.facebook.com/pg/savagewear) [TW](https://twitter.com/savagewear))
 - **Sebastian Cauchos** (NL) ([WWW](https://sebastiancauchos.bigcartel.com) [ET](https://www.etsy.com/shop/SebastianCauchos) [FB](https://www.facebook.com/pg/sebastiancauchos.design) [IG](https://www.instagram.com/sebastiancauchos))
 - **Sensory Delight Latex** (UK) ([FB](https://www.facebook.com/SensoryDelightLatex) [IG](https://www.instagram.com/sensorydelightlatex/))
