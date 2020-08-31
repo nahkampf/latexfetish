@@ -177,6 +177,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Bunny GlitterGun** (NL) ([FB](https://www.facebook.com/pg/BunnyGlitterGun/) [IG](https://www.instagram.com/BunnyGlitterGun/))
 - **Calamity Amelie** (SE) ([WWW](https://www.patreon.com/calamityamelie) [FB](https://www.facebook.com/pg/CalamityAmelie/))
 - **Cat Atonia** (DE) ([FB](https://www.facebook.com/pg/CatAtonia.Model/))
+- **Claudia le Fey** (DE) ([WWW](https://www.model-kartei.de/sedcards/model/505537/claudia-le-fay/) [FB](https://www.facebook.com/Modelclaudiae/))
 - **Dani Divine** (UK) ([WWW](https://danidivine.bigcartel.com/) [FB](https://www.facebook.com/pg/danidivinemodel) [IG](https://www.instagram.com/dani_divine))
 - **Dawina Starling** (CH) ([WWW](https://www.model-kartei.de/sedcards/model/74377/dawina) [FB](https://www.facebook.com/pg/modeldawina))
 - **Diva Nova/Emanuela Solomie** (DE) ([FB](https://www.facebook.com/pg/Diva-NovaEmanuela-Solomie-161528183887664))
@@ -193,6 +194,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Kiet Katharsis** (NL) ([FB](https://www.facebook.com/pg/KietKatharsis.model) [IG](https://www.instagram.com/kietkatharsis/))
 - **L'Adinda Latex** (NL) ([FB](https://www.facebook.com/pg/ladindalatex/) [IG](https://www.instagram.com/l.adinda.latex/))
 - **Lara Aimee** (NL) ([WWW](http://www.lara-aimee.nl/) [FB](https://www.facebook.com/pg/LaraAimeeOfficial) [IG](https://www.instagram.com/the_lara_aimee/))
+- **LatexVin** (DE) ([WWW](https://latexvin.wixsite.com/latexvin) [FB](https://www.facebook.com/LatexVin))
 - **LickyLinn** (SE) ([FB](https://www.facebook.com/pg/lickylinn) [IG](https://www.instagram.com/lickylinn))
 - **Luby Wayne** (DE) ([FB](https://www.facebook.com/pg/Lubywayne/) [IG](https://www.instagram.com/lubywayne))
 - **Mandy Xotoxic** (DE) ([ET](https://www.etsy.com/people/mandyxotoxic) [FB](https://www.facebook.com/pg/ModelMandyXotoxic) [IG](https://www.instagram.com/mandyxotoxic))
@@ -252,6 +254,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Philipp Ganzer** (DE) ([FB](https://www.facebook.com/pg/GanzerPhotography))
 - **Radiant Inc** (US) ([WWW](https://www.radiantinc.net/) [FB](https://www.facebook.com/pg/Radiant.Inc.L))
 - **S&M Photography** (DE) ([FB](https://www.facebook.com/pg/SM.Fashion.Photography))
+- **Soubie** (DE) ([WWW](https://www.soubi.de/) [FB](https://www.facebook.com/soubi.fotografie))
 - **Vera Bruss** (DE) ([WWW](http://www.artveo.de/fetish.html))
 
 ## Communities
