@@ -55,6 +55,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Catriona Stewart Clothing** (UK) ([FB](https://www.facebook.com/pg/CatrionaStewartClothing))
 - **Cherry Pop Latex** (UK) ([FB](https://www.facebook.com/pg/cherrypoplatex))
 - **Chronomatic Luxury Latex Wear** (DE) ([WWW](https://www.chronomatic.de/) [FB](https://www.facebook.com/pg/chronomatic.latexwear) [IG](https://www.instagram.com/chronomatic_latex/) [TW](https://twitter.com/chronomaticinfo))
+- **CL Design** (DE) ([WWW](https://www.cldesign-latex.de) [FB](https://www.facebook.com/CLDesignLatex/) [IG](https://www.instagram.com/cl_design_latex/))
 - **Coco Latex** (ES) ([FB](https://www.facebook.com/pg/coco.latex.madrid) [WWW](https://cocolatex.patternbyetsy.com/))
 - **Cocoon1** (UK) ([WWW](http://www.cocoon1.com/))
 - **Collective Chaos** (US) ([ET](https://www.etsy.com/shop/collectivechaos/) [FB](https://www.facebook.com/collectivechaos/) [IG](https://www.instagram.com/collectivechaos))
