@@ -171,6 +171,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Agna Devi** (RU) ([WWW](http://fetishmodel.ru/) [TW](https://twitter.com/agnafetish))
 - **Alexa Moorre** (NL) ([WWW](https://www.patreon.com/alexamoorre) [FB](https://www.facebook.com/pg/AlexaMoorre))
 - **Bella Isadora** (DE) ([FB](https://www.facebook.com/pg/modelbellaisadora) [IG](https://www.instagram.com/bella_isadora_official/))
+- **Beyla Hughes** (DE) ([FB](https://www.facebook.com/missbeylahughes/) [IG](https://www.instagram.com/missbeylahughes/) [TW](https://twitter.com/MissBeylaHughes))
 - **Bianca Beauchamp** (CA) ([WWW](https://www.ilovebianca.com/) [FB](https://www.facebook.com/biancabeauchampmodel/) [IG](https://www.instagram.com/biancabeauchampmodel))
 - **Bloxi** (DE) ([FB](https://www.facebook.com/pg/Bloxi) [IG](https://www.instagram.com/miss_bloxi/))
 - **Bunny GlitterGun** (NL) ([FB](https://www.facebook.com/pg/BunnyGlitterGun/) [IG](https://www.instagram.com/BunnyGlitterGun/))
@@ -250,6 +251,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Maxime Avet** (FR) ([FB](https://www.facebook.com/pg/We-3-Maxime-Avet-268712117650))
 - **Mcglogg Photography** (DE) ([FB](https://www.instagram.com/mcglogg/))
 - **Mew-Chiel** (NL) ([WWW](http://www.me-chiel.com) [FB](https://www.facebook.com/pg/mewchiel))
+- **Nikitzo/Fetishchimera (DE) ([WWW](https://nikitzo.com) [IG](https://www.instagram.com/fetishchimera) [TW](https://twitter.com/fetishchimera))
 - **O-Orb** (FI) ([WWW](http://www.0-orb.net/zero/) [FB](https://www.facebook.com/pg/0orb.shines) [IG](https://www.instagram.com/zero_scope/) [TW](https://twitter.com/Zer0orb))
 - **Philipp Ganzer** (DE) ([FB](https://www.facebook.com/pg/GanzerPhotography))
 - **Radiant Inc** (US) ([WWW](https://www.radiantinc.net/) [FB](https://www.facebook.com/pg/Radiant.Inc.L))
@@ -289,4 +291,5 @@ If you have additions or corrections/updates feel free to make a pull request. T
 
 ## Miscellaneous
 - **beGLOSS** ([WWW](https://www.begloss.com))
+- **LatexFashionTV** (UK) ([WWW](https://www.patreon.com/latexfashiontv) )
 - **Vivishine** ([WWW](https://www.vivishine.com))
