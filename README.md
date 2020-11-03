@@ -267,6 +267,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 
 ## Events
 - **Avantgardista** (DE :de:) ([WWW](https://avantgardista.net) [FB](https://www.facebook.com/pg/avantgardista))
+- **Dekadance** (SE :se:) ([WWW](https://www.dekadance.se/) [FB](https://www.facebook.com/dekadancestockholm/) [IG](https://www.instagram.com/dekadance_stockholm/))
 - **EuroPerve** (NL :netherlands:) ([WWW](https://europerve.org) [FB](https://www.facebook.com/pg/EuroPerve))
 - **German Fetish Ball** (DE :de:) ([WWW](https://www.german-fetish-ball.com/) [FB](https://www.facebook.com/germanfetishballweekend) [IG](https://www.instagram.com/germanfetishball/) [TW](https://twitter.com/germanfetball) [YT](https://www.youtube.com/user/germanfetishball))
 - **Luxuria** (HU :hungary:) ([WWW](http://www.luxuriaparty.hu/) [FB](https://www.facebook.com/pg/Luxuria-774635125991349))
