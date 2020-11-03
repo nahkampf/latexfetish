@@ -41,7 +41,6 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Atsuko Kudo** (UK :uk:) ([WWW](http://www.atsukokudo.com/) [FB](https://www.facebook.com/AtsukoKudoLatex) [IG](https://www.instagram.com/AtsukoKudoLatex/) [TW](https://twitter.com/atsukokudolatex) [YT](https://www.youtube.com/user/atsukokudo))
 - **Ausrie Fel** (UK :uk:) ([ET](https://www.etsy.com/uk/shop/AusrieFel) [FB](https://www.facebook.com/pg/ausriefelice))
 - **Baroness** (US :us:) ([WWW](https://baroness.com) [FB](https://www.facebook.com/latexbaroness) [TW](https://twitter.com/latexbaroness))
-- **Bella Rubber** (AU :australia:) ([WWW](http://www.bellarubber.com.au))
 - **Blacklickorish** (US :us:) ([WWW](http://blacklickorish.com) [ET](https://www.etsy.com/shop/Blacklickorish) [IG](https://www.instagram.com/blacklickorish/))
 - **Black Sheep Latex** (UK :uk:) ([WWW](https://blacksheeplatex.com/) [FB](https://www.facebook.com/BlackSheepLatex) [IG](https://www.instagram.com/blacksheeplatex/) [TW](https://twitter.com/BlackSheepLatex))
 - **Blackstyle** (DE :de:) ([WWW](https://www.blackstyle.de) [FB](https://www.facebook.com/pg/Blackstyle.latex/))
