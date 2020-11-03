@@ -163,7 +163,8 @@ If you have additions or corrections/updates feel free to make a pull request. T
 ## Shops
 - **Absolute Danny** (NL :netherlands:) ([WWW](http://www.absolutedanny.com/) [FB](https://www.facebook.com/pg/Absolute-Danny-388274791324944))
 - **Honour** (UK :uk:) ([WWW](https://www.honour.co.uk) [FB](https://www.facebook.com/honourclothing01) [IG](https://www.instagram.com/honourclothing/) [TW](https://twitter.com/honourclothing) [YT](https://www.youtube.com/user/honourclothing/))
-- **Rubber Eva** (UK :uk:) ([UK](https://www.rubberevashop.com)) 
+- **Rubber Eva** (UK :uk:) ([WWW](https://www.rubberevashop.com)) 
+- **RubberFashion** (DE :de:) ([WWW](https://www.rubberfashion.de))
 - **Stockroom** (US :us:) ([WWW](https://www.stockroom.com/))
 
 ## Models
