@@ -69,6 +69,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Dollskin Designs** (US) ([ET](https://www.etsy.com/shop/dollskindesignslatex) [FB](https://www.facebook.com/pg/DollskinDesignsLatex))
 - **Ectomorph** (UK) ([WWW](http://www.ectomorph.com/) [FB](https://www.facebook.com/EctoMorphFashion/) [IG](https://www.instagram.com/krystina_kitsis))
 - **Eustratia** (UK) ([WWW](http://www.eustratia.co.uk/) [FB](https://www.facebook.com/pg/Eustratiadesign))
+- **Exolatex** (CA) ([WWW](https://exolatex.com) [FB](https://www.facebook.com/exolatex) [IG](https://www.instagram.com/exolatex/) [TW](https://twitter.com/ExoLatex))
 - **Fantastic Rubber** (DE) ([WWW](http://www.fantasticrubber.de/) [FB](https://www.facebook.com/pg/fantasticrubber) [IG](https://www.instagram.com/fantasticrubber/) [TW](https://twitter.com/fantasticrubber))
 - **Feline Latex Design** (DE) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
 - **Fetasia** (UK) ([WWW](https://fetasialatex.com/) [FB](https://www.facebook.com/pg/FetasiaLatex/) [IG](https://www.instagram.com/fetasia_latex/))
