@@ -70,6 +70,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Eustratia** (UK :uk:) ([WWW](http://www.eustratia.co.uk/) [FB](https://www.facebook.com/pg/Eustratiadesign))
 - **Exolatex** (CA :canada:) ([WWW](https://exolatex.com) [FB](https://www.facebook.com/exolatex) [IG](https://www.instagram.com/exolatex/) [TW](https://twitter.com/ExoLatex))
 - **Fantastic Rubber** (DE :de:) ([WWW](http://www.fantasticrubber.de/) [FB](https://www.facebook.com/pg/fantasticrubber) [IG](https://www.instagram.com/fantasticrubber/) [TW](https://twitter.com/fantasticrubber))
+- **FCLX** (UK :uk:) ([IG](https://www.instagram.com/studio_fclx/))
 - **Feline Latex Design** (DE :de:) ([ET](https://www.etsy.com/de/shop/FelineLatexDesigns))
 - **Fetasia** (UK :uk:) ([WWW](https://fetasialatex.com/) [FB](https://www.facebook.com/pg/FetasiaLatex/) [IG](https://www.instagram.com/fetasia_latex/))
 - **Fetico** (DE :de:) ([WWW](https://www.feitico.de/) [FB](https://www.facebook.com/FeiticoMasken))
