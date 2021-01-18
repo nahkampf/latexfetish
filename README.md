@@ -200,6 +200,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **LatexVin** (DE :de:) ([WWW](https://latexvin.wixsite.com/latexvin) [FB](https://www.facebook.com/LatexVin))
 - **LickyLinn** (SE :sweden:) ([FB](https://www.facebook.com/pg/lickylinn) [IG](https://www.instagram.com/lickylinn))
 - **Luby Wayne** (DE :de:) ([FB](https://www.facebook.com/pg/Lubywayne/) [IG](https://www.instagram.com/lubywayne))
+- **Madmoiselle Jou** (FR :fr:) ([FB](https://www.facebook.com/madmoisellejou/) [IG](https://www.instagram.com/madmoisellejouback/) [TW](https://twitter.com/madmoisellejou))
 - **Mandy Xotoxic** (DE :de:) ([ET](https://www.etsy.com/people/mandyxotoxic) [FB](https://www.facebook.com/pg/ModelMandyXotoxic) [IG](https://www.instagram.com/mandyxotoxic))
 - **Masuimi Max** (US :us:) ([WWW](https://masuimimax.com) [FB](https://www.facebook.com/pg/MasuimiMax) [IG](https://www.instagram.com/MASUIMIMAX))
 - **Marilyn Yusuf** (BG :bulgaria:) ([WWW](http://www.marilynlatex.com) [FB](https://www.facebook.com/MarilynYusuf/) [IG](https://www.instagram.com/marilynyusuf1))
