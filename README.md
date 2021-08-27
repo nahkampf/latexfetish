@@ -84,6 +84,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Invincible Rubber** (UK :uk:) ([WWW](https://www.invinciblerubber.com))
 - **Isabeau Ouvert** (DE :de:) ([WWW](https://www.isabeau-ouvert.com/latex-fashion/))
 - **Jane Doe Latex** (US :us:) ([WWW](https://shop.janedoelatex.com/) [FB](https://www.facebook.com/Janedoelatex/) [IG](https://www.instagram.com/janedoelatex) [TW](https://twitter.com/janedoelatex))
+- **Jasmine Davids Latex** (NL 🇳🇱:) ([IG](https://www.instagram.com/jasminedavids.latex/))
 - **Kaori's Latex Dreams** (UK :uk:) ([WWW](http://kaorislatexdreams.com/) [ET](https://www.etsy.com/shop/kaorislatexdreams) [FB](https://www.facebook.com/pg/kaorislatexdreams))
 - **Kim West** (UK :uk:) ([WWW](https://www.kimwest.co.uk/) [FB](https://www.facebook.com/pg/kimwest.fanpage))
 - **Kinkside Latex** (RU :ru:) ([WWW](http://kinkside.com/) [FB](https://www.facebook.com/pg/kinkside) [IG](https://www.instagram.com/kinkside/) [TW](https://twitter.com/KinksideLatex))
