@@ -87,6 +87,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Jasmine Davids Latex** (NL 🇳🇱:) ([IG](https://www.instagram.com/jasminedavids.latex/))
 - **Kaori's Latex Dreams** (UK :uk:) ([WWW](http://kaorislatexdreams.com/) [ET](https://www.etsy.com/shop/kaorislatexdreams) [FB](https://www.facebook.com/pg/kaorislatexdreams))
 - **Kim West** (UK :uk:) ([WWW](https://www.kimwest.co.uk/) [FB](https://www.facebook.com/pg/kimwest.fanpage))
+- **Kinkiro** (DE :de:) ([FB](https://www.facebook.com/kinkiro.sports/) [IG](https://www.instagram.com/kinkiro.latex) [TW](https://twitter.com/kinkiro_sports))
 - **Kinkside Latex** (RU :ru:) ([WWW](http://kinkside.com/) [FB](https://www.facebook.com/pg/kinkside) [IG](https://www.instagram.com/kinkside/) [TW](https://twitter.com/KinksideLatex))
 - **Kirsten Li Design** (US :us:) ([WWW](http://www.kirstenlidesigns.com) [FB](https://www.facebook.com/kirstenlidesigns/))
 - **Lacing Lilith** (UK :uk:) ([WWW](www.lacinglilith.com) [FB](https://www.facebook.com/pg/lacinglilithlatexcouture))
