@@ -106,6 +106,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **LLde Saxe Fashion** (DE :de:) ([WWW](https://lldesaxe-fashion.de))
 - **Lovnblack Latex Designs** (BG :bulgaria:) ([FB](https://www.facebook.com/pg/lovnblacklatex/posts/) [ET](https://www.etsy.com/shop/lovnblack))
 - **LTX Clothing** (PL :poland:) ([WWW](http://www.ltxclothing.com/) [ET](https://www.etsy.com/uk/people/ltxclothing) [FB](https://www.facebook.com/pg/ltxclothingcom) [IG](https://www.instagram.com/ltxclothing/))
+- **Lucyfer Tailor** (PL :poland:) ([ET](https://www.etsy.com/pl/shop/LucyferTailor) [IG](https://www.instagram.com/lucyfer_org/) [TW](https://twitter.com/lucyferorg) [YT](https://www.youtube.com/channel/UChvU2vmUE153MvG1Q1P13MA))
 - **Lunaslatex** (NL :netherlands:) ([ET](https://www.etsy.com/nl/shop/Lunaslatex) [FB](https://www.facebook.com/lunaslatexx-1275687902594977/))
 - **Lüllepop** (DE :de:) ([WWW](https://luellepop-design.de/) [FB](https://www.facebook.com/Luellepop.LaTextil.Couture) [IG](https://www.instagram.com/luellepop_latextil_couture/) [TW](https://twitter.com/luellepop) [YT](https://www.youtube.com/channel/UCQ4Ksci4jvkwysCjFGPAusA))
 - **Lust Designs** (US :us:) ([WWW](https://www.lustdesigns.com/) [FB](https://www.facebook.com/pg/lustdesigns))
