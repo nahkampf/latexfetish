@@ -67,6 +67,7 @@ If you have additions or corrections/updates feel free to make a pull request. T
 - **Demask** (CZ/NL :czech_republic:/:netherlands:) ([WEB](http://www.demask.com) [FB](https://www.facebook.com/DemaskAmsterdam/) [IG](https://www.instagram.com/demask_international/) [TW](https://twitter.com/DeMasK) [YT](https://www.youtube.com/user/demaskinternational))
 - **Dollskin Designs** (US :us:) ([ET](https://www.etsy.com/shop/dollskindesignslatex) [FB](https://www.facebook.com/pg/DollskinDesignsLatex))
 - **Ectomorph** (UK :uk:) ([WWW](http://www.ectomorph.com/) [FB](https://www.facebook.com/EctoMorphFashion/) [IG](https://www.instagram.com/krystina_kitsis))
+- **ElinHarness** (UA :ua:) ([WWW](https://elinharness.com/) [FB](https://www.facebook.com/ElinHarness) [IG](https://www.instagram.com/elinharness.official/))
 - **Eustratia** (UK :uk:) ([WWW](http://www.eustratia.co.uk/) [FB](https://www.facebook.com/pg/Eustratiadesign))
 - **Exolatex** (CA :canada:) ([WWW](https://exolatex.com) [FB](https://www.facebook.com/exolatex) [IG](https://www.instagram.com/exolatex/) [TW](https://twitter.com/ExoLatex))
 - **Fantastic Rubber** (DE :de:) ([WWW](http://www.fantasticrubber.de/) [FB](https://www.facebook.com/pg/fantasticrubber) [IG](https://www.instagram.com/fantasticrubber/) [TW](https://twitter.com/fantasticrubber))
